@@ -240,6 +240,38 @@ window.DATA = {
     }
   ],
   "cities": {
+    "paris": {
+      "name": "파리",
+      "center": [
+        48.8566,
+        2.3522
+      ],
+      "zoom": 12,
+      "info": [],
+      "food": [],
+      "hotel": [
+        {
+          "title": "풀만 파리 타워 에펠",
+          "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1977467&hl=ko-kr&hid=7266",
+          "lat": 48.855502,
+          "lng": 2.292683
+        },
+        {
+          "title": "노보텔 파리 센터 투어 에펠",
+          "url": "https://3ha.in/r/756905",
+          "lat": 48.849957,
+          "lng": 2.283276
+        }
+      ],
+      "spot": [
+        {
+          "title": "루브르 박물관 입장권",
+          "url": "https://3ha.in/r/767018",
+          "lat": 48.861147,
+          "lng": 2.338028
+        }
+      ]
+    },
     "cebu": {
       "name": "세부",
       "center": [
@@ -929,32 +961,6 @@ window.DATA = {
         }
       ],
       "spot": []
-    },
-    "paris": {
-      "name": "파리",
-      "center": [
-        48.8566,
-        2.3522
-      ],
-      "zoom": 12,
-      "info": [],
-      "food": [],
-      "hotel": [
-        {
-          "title": "노보텔 파리 센터 투어 에펠",
-          "url": "https://3ha.in/r/756905",
-          "lat": 48.849957,
-          "lng": 2.283276
-        }
-      ],
-      "spot": [
-        {
-          "title": "루브르 박물관 입장권",
-          "url": "https://3ha.in/r/767018",
-          "lat": 48.861147,
-          "lng": 2.338028
-        }
-      ]
     },
     "prague": {
       "name": "프라하",
