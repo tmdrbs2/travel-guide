@@ -240,6 +240,55 @@ window.DATA = {
     }
   ],
   "cities": {
+    "danang": {
+      "name": "다낭",
+      "center": [
+        16.0544,
+        108.2022
+      ],
+      "zoom": 12,
+      "info": [
+        {
+          "title": "베트남 입국 준비, 사전 입국 정보 PAI 작성법과 무비자 45일",
+          "url": "https://blog.naver.com/gilbomm/224438575713"
+        }
+      ],
+      "food": [],
+      "hotel": [
+        {
+          "title": "신라 모노그램 다낭",
+          "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1977467&hl=ko-kr&hid=10789475",
+          "lat": 15.963471,
+          "lng": 108.289382
+        },
+        {
+          "title": "노보텔 다낭 프리미어 한 리버",
+          "url": "https://3ha.in/r/782283",
+          "lat": 16.077461,
+          "lng": 108.223563
+        },
+        {
+          "title": "다낭 가성비 호텔 TOP5",
+          "url": "https://blog.naver.com/gilbomm/224438006971",
+          "lat": 16.075625,
+          "lng": 108.246878
+        },
+        {
+          "title": "하얏트 리젠시 다낭 리조트 앤 스파",
+          "url": "https://3ha.in/r/756534",
+          "lat": 16.012589,
+          "lng": 108.263775
+        }
+      ],
+      "spot": [
+        {
+          "title": "바나힐 입장권",
+          "url": "https://3ha.in/r/782428",
+          "lat": 15.995857,
+          "lng": 107.989071
+        }
+      ]
+    },
     "paris": {
       "name": "파리",
       "center": [
@@ -306,49 +355,6 @@ window.DATA = {
           "url": "https://3ha.in/r/757087",
           "lat": 9.462088,
           "lng": 123.378636
-        }
-      ]
-    },
-    "danang": {
-      "name": "다낭",
-      "center": [
-        16.0544,
-        108.2022
-      ],
-      "zoom": 12,
-      "info": [
-        {
-          "title": "베트남 입국 준비, 사전 입국 정보 PAI 작성법과 무비자 45일",
-          "url": "https://blog.naver.com/gilbomm/224438575713"
-        }
-      ],
-      "food": [],
-      "hotel": [
-        {
-          "title": "노보텔 다낭 프리미어 한 리버",
-          "url": "https://3ha.in/r/782283",
-          "lat": 16.077461,
-          "lng": 108.223563
-        },
-        {
-          "title": "다낭 가성비 호텔 TOP5",
-          "url": "https://blog.naver.com/gilbomm/224438006971",
-          "lat": 16.075625,
-          "lng": 108.246878
-        },
-        {
-          "title": "하얏트 리젠시 다낭 리조트 앤 스파",
-          "url": "https://3ha.in/r/756534",
-          "lat": 16.012589,
-          "lng": 108.263775
-        }
-      ],
-      "spot": [
-        {
-          "title": "바나힐 입장권",
-          "url": "https://3ha.in/r/782428",
-          "lat": 15.995857,
-          "lng": 107.989071
         }
       ]
     },
