@@ -240,6 +240,61 @@ window.DATA = {
     }
   ],
   "cities": {
+    "tokyo": {
+      "name": "도쿄",
+      "center": [
+        35.6812,
+        139.7671
+      ],
+      "zoom": 11,
+      "info": [
+        {
+          "title": "일본 입국 비짓재팬웹 등록 방법, QR 하나로 입국심사·세관 통과",
+          "url": "https://blog.naver.com/gilbomm/224438229754"
+        }
+      ],
+      "food": [],
+      "hotel": [
+        {
+          "title": "호텔 메트로폴리탄 도쿄 이케부쿠로",
+          "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1977467&hl=ko-kr&hid=6063",
+          "lat": 35.728339,
+          "lng": 139.708001
+        },
+        {
+          "title": "미츠이 가든 호텔 긴자 프리미어",
+          "url": "https://3ha.in/r/778428",
+          "lat": 35.667112,
+          "lng": 139.763179
+        },
+        {
+          "title": "더 게이트 호텔 가미나리몬",
+          "url": "https://3ha.in/r/767004",
+          "lat": 35.71087,
+          "lng": 139.795216
+        },
+        {
+          "title": "호텔 그레이서리 신주쿠",
+          "url": "https://3ha.in/r/760856",
+          "lat": 35.695563,
+          "lng": 139.702277
+        }
+      ],
+      "spot": [
+        {
+          "title": "도쿄 디즈니 리조트 티켓",
+          "url": "https://blog.naver.com/gilbomm/224437921592",
+          "lat": 35.632659,
+          "lng": 139.881417
+        },
+        {
+          "title": "시부야 스카이 입장권",
+          "url": "https://3ha.in/r/761099",
+          "lat": 35.658379,
+          "lng": 139.702216
+        }
+      ]
+    },
     "singapore": {
       "name": "싱가포르",
       "center": [
@@ -679,55 +734,6 @@ window.DATA = {
           "url": "https://3ha.in/r/763525",
           "lat": 41.904961,
           "lng": 12.454662
-        }
-      ]
-    },
-    "tokyo": {
-      "name": "도쿄",
-      "center": [
-        35.6812,
-        139.7671
-      ],
-      "zoom": 11,
-      "info": [
-        {
-          "title": "일본 입국 비짓재팬웹 등록 방법, QR 하나로 입국심사·세관 통과",
-          "url": "https://blog.naver.com/gilbomm/224438229754"
-        }
-      ],
-      "food": [],
-      "hotel": [
-        {
-          "title": "미츠이 가든 호텔 긴자 프리미어",
-          "url": "https://3ha.in/r/778428",
-          "lat": 35.667112,
-          "lng": 139.763179
-        },
-        {
-          "title": "더 게이트 호텔 가미나리몬",
-          "url": "https://3ha.in/r/767004",
-          "lat": 35.71087,
-          "lng": 139.795216
-        },
-        {
-          "title": "호텔 그레이서리 신주쿠",
-          "url": "https://3ha.in/r/760856",
-          "lat": 35.695563,
-          "lng": 139.702277
-        }
-      ],
-      "spot": [
-        {
-          "title": "도쿄 디즈니 리조트 티켓",
-          "url": "https://blog.naver.com/gilbomm/224437921592",
-          "lat": 35.632659,
-          "lng": 139.881417
-        },
-        {
-          "title": "시부야 스카이 입장권",
-          "url": "https://3ha.in/r/761099",
-          "lat": 35.658379,
-          "lng": 139.702216
         }
       ]
     },
