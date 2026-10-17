@@ -240,6 +240,42 @@ window.DATA = {
     }
   ],
   "cities": {
+    "taipei": {
+      "name": "타이베이",
+      "center": [
+        25.0478,
+        121.517
+      ],
+      "zoom": 13,
+      "info": [
+        {
+          "title": "대만 입국신고서 TWAC 작성 방법, 입국 7일 전부터 온라인 제출",
+          "url": "https://blog.naver.com/gilbomm/224438531547"
+        }
+      ],
+      "food": [],
+      "hotel": [
+        {
+          "title": "시저 파크 호텔 타이베이",
+          "url": "https://3ha.in/r/795297",
+          "lat": 25.046111,
+          "lng": 121.516295
+        },
+        {
+          "title": "험블 하우스 타이베이",
+          "url": "https://3ha.in/r/767007",
+          "lat": 25.038606,
+          "lng": 121.567378
+        },
+        {
+          "title": "코스모스 호텔 타이베이",
+          "url": "https://3ha.in/r/757055",
+          "lat": 25.046356,
+          "lng": 121.518336
+        }
+      ],
+      "spot": []
+    },
     "bangkok": {
       "name": "방콕",
       "center": [
@@ -559,36 +595,6 @@ window.DATA = {
           "url": "https://3ha.in/r/757106",
           "lat": 1.283697,
           "lng": 103.860723
-        }
-      ],
-      "spot": []
-    },
-    "taipei": {
-      "name": "타이베이",
-      "center": [
-        25.0478,
-        121.517
-      ],
-      "zoom": 13,
-      "info": [
-        {
-          "title": "대만 입국신고서 TWAC 작성 방법, 입국 7일 전부터 온라인 제출",
-          "url": "https://blog.naver.com/gilbomm/224438531547"
-        }
-      ],
-      "food": [],
-      "hotel": [
-        {
-          "title": "험블 하우스 타이베이",
-          "url": "https://3ha.in/r/767007",
-          "lat": 25.038606,
-          "lng": 121.567378
-        },
-        {
-          "title": "코스모스 호텔 타이베이",
-          "url": "https://3ha.in/r/757055",
-          "lat": 25.046356,
-          "lng": 121.518336
         }
       ],
       "spot": []
