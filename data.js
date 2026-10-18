@@ -240,6 +240,36 @@ window.DATA = {
     }
   ],
   "cities": {
+    "guam": {
+      "name": "괌",
+      "center": [
+        13.515,
+        144.805
+      ],
+      "zoom": 12,
+      "info": [
+        {
+          "title": "괌 렌터카 예약 가이드, 공항 픽업·차종·가격·보험 확인 포인트 총정리",
+          "url": "https://blog.naver.com/gilbomm/224430145659"
+        }
+      ],
+      "food": [],
+      "hotel": [
+        {
+          "title": "두짓타니 괌 리조트",
+          "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1977467&hl=ko-kr&hid=870053",
+          "lat": 13.513799,
+          "lng": 144.805006
+        },
+        {
+          "title": "힐튼 괌 리조트 & 스파",
+          "url": "https://3ha.in/r/757157",
+          "lat": 13.505904,
+          "lng": 144.785805
+        }
+      ],
+      "spot": []
+    },
     "taipei": {
       "name": "타이베이",
       "center": [
@@ -1146,30 +1176,6 @@ window.DATA = {
           "url": "https://3ha.in/r/761008",
           "lat": 35.008315,
           "lng": 135.761911
-        }
-      ],
-      "spot": []
-    },
-    "guam": {
-      "name": "괌",
-      "center": [
-        13.515,
-        144.805
-      ],
-      "zoom": 12,
-      "info": [
-        {
-          "title": "괌 렌터카 예약 가이드, 공항 픽업·차종·가격·보험 확인 포인트 총정리",
-          "url": "https://blog.naver.com/gilbomm/224430145659"
-        }
-      ],
-      "food": [],
-      "hotel": [
-        {
-          "title": "힐튼 괌 리조트 & 스파",
-          "url": "https://3ha.in/r/757157",
-          "lat": 13.505904,
-          "lng": 144.785805
         }
       ],
       "spot": []
