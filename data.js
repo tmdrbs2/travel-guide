@@ -240,6 +240,43 @@ window.DATA = {
     }
   ],
   "cities": {
+    "rome": {
+      "name": "로마",
+      "center": [
+        41.9028,
+        12.4964
+      ],
+      "zoom": 12,
+      "info": [
+        {
+          "title": "이탈리아 기차표·버스표 사는 법과 개찰 방법, 종이표 안 찍으면 벌금",
+          "url": "https://blog.naver.com/gilbomm/224444310455"
+        }
+      ],
+      "food": [],
+      "hotel": [
+        {
+          "title": "호텔 퀴리날레",
+          "url": "https://3ha.in/r/757127",
+          "lat": 41.901636,
+          "lng": 12.494837
+        }
+      ],
+      "spot": [
+        {
+          "title": "이탈리아 남부 1박2일 투어(포지타노·카프리)",
+          "url": "https://blog.naver.com/gilbomm/224437949566",
+          "lat": 40.628658,
+          "lng": 14.485496
+        },
+        {
+          "title": "바티칸 박물관 입장권",
+          "url": "https://3ha.in/r/763525",
+          "lat": 41.904961,
+          "lng": 12.454662
+        }
+      ]
+    },
     "hongkong": {
       "name": "홍콩",
       "center": [
@@ -747,38 +784,6 @@ window.DATA = {
         }
       ],
       "spot": []
-    },
-    "rome": {
-      "name": "로마",
-      "center": [
-        41.9028,
-        12.4964
-      ],
-      "zoom": 12,
-      "info": [],
-      "food": [],
-      "hotel": [
-        {
-          "title": "호텔 퀴리날레",
-          "url": "https://3ha.in/r/757127",
-          "lat": 41.901636,
-          "lng": 12.494837
-        }
-      ],
-      "spot": [
-        {
-          "title": "이탈리아 남부 1박2일 투어(포지타노·카프리)",
-          "url": "https://blog.naver.com/gilbomm/224437949566",
-          "lat": 40.628658,
-          "lng": 14.485496
-        },
-        {
-          "title": "바티칸 박물관 입장권",
-          "url": "https://3ha.in/r/763525",
-          "lat": 41.904961,
-          "lng": 12.454662
-        }
-      ]
     },
     "sanfrancisco": {
       "name": "샌프란시스코",
