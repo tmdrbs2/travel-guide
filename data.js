@@ -240,6 +240,32 @@ window.DATA = {
     }
   ],
   "cities": {
+    "hanoi": {
+      "name": "하노이",
+      "center": [
+        21.0285,
+        105.8542
+      ],
+      "zoom": 13,
+      "info": [],
+      "food": [
+        {
+          "title": "하노이 구시가지 맛집 TOP5",
+          "url": "https://blog.naver.com/gilbomm/224444542145",
+          "lat": 21.034,
+          "lng": 105.85
+        }
+      ],
+      "hotel": [
+        {
+          "title": "소피텔 레전드 메트로폴 하노이",
+          "url": "https://3ha.in/r/763569",
+          "lat": 21.025488,
+          "lng": 105.855978
+        }
+      ],
+      "spot": []
+    },
     "rome": {
       "name": "로마",
       "center": [
@@ -1073,25 +1099,6 @@ window.DATA = {
           "url": "https://3ha.in/r/767009",
           "lat": 35.156825,
           "lng": 129.14143
-        }
-      ],
-      "spot": []
-    },
-    "hanoi": {
-      "name": "하노이",
-      "center": [
-        21.0285,
-        105.8542
-      ],
-      "zoom": 13,
-      "info": [],
-      "food": [],
-      "hotel": [
-        {
-          "title": "소피텔 레전드 메트로폴 하노이",
-          "url": "https://3ha.in/r/763569",
-          "lat": 21.025488,
-          "lng": 105.855978
         }
       ],
       "spot": []
