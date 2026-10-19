@@ -240,6 +240,58 @@ window.DATA = {
     }
   ],
   "cities": {
+    "bangkok": {
+      "name": "방콕",
+      "center": [
+        13.7466,
+        100.5393
+      ],
+      "zoom": 12,
+      "info": [
+        {
+          "title": "방콕 수완나품 공항에서 시내 가는 법 공항철도·버스·그랩·택시",
+          "url": "https://blog.naver.com/gilbomm/224444187302"
+        },
+        {
+          "title": "태국 입국신고서 TDAC 작성 방법, 도착 3일 전 온라인 제출 순서",
+          "url": "https://blog.naver.com/gilbomm/224438253356"
+        }
+      ],
+      "food": [],
+      "hotel": [
+        {
+          "title": "아바니+ 리버사이드 방콕",
+          "url": "https://3ha.in/r/795696",
+          "lat": 13.705025,
+          "lng": 100.491371
+        },
+        {
+          "title": "빠툼완 프린세스 호텔",
+          "url": "https://3ha.in/r/782251",
+          "lat": 13.743459,
+          "lng": 100.529695
+        },
+        {
+          "title": "그랜드 센터 포인트 터미널 21",
+          "url": "https://3ha.in/r/780367",
+          "lat": 13.738245,
+          "lng": 100.560731
+        },
+        {
+          "title": "방콕 BTS역 근처 호텔 TOP5",
+          "url": "https://3ha.in/r/757173",
+          "lat": 13.745625,
+          "lng": 100.534213
+        },
+        {
+          "title": "센타라 그랜드 앳 센트럴월드",
+          "url": "https://3ha.in/r/756923",
+          "lat": 13.747523,
+          "lng": 100.538361
+        }
+      ],
+      "spot": []
+    },
     "osaka": {
       "name": "오사카",
       "center": [
@@ -574,52 +626,6 @@ window.DATA = {
           "lng": 139.702216
         }
       ]
-    },
-    "bangkok": {
-      "name": "방콕",
-      "center": [
-        13.7466,
-        100.5393
-      ],
-      "zoom": 12,
-      "info": [
-        {
-          "title": "방콕 수완나품 공항에서 시내 가는 법 공항철도·버스·그랩·택시",
-          "url": "https://blog.naver.com/gilbomm/224444187302"
-        },
-        {
-          "title": "태국 입국신고서 TDAC 작성 방법, 도착 3일 전 온라인 제출 순서",
-          "url": "https://blog.naver.com/gilbomm/224438253356"
-        }
-      ],
-      "food": [],
-      "hotel": [
-        {
-          "title": "빠툼완 프린세스 호텔",
-          "url": "https://3ha.in/r/782251",
-          "lat": 13.743459,
-          "lng": 100.529695
-        },
-        {
-          "title": "그랜드 센터 포인트 터미널 21",
-          "url": "https://3ha.in/r/780367",
-          "lat": 13.738245,
-          "lng": 100.560731
-        },
-        {
-          "title": "방콕 BTS역 근처 호텔 TOP5",
-          "url": "https://3ha.in/r/757173",
-          "lat": 13.745625,
-          "lng": 100.534213
-        },
-        {
-          "title": "센타라 그랜드 앳 센트럴월드",
-          "url": "https://3ha.in/r/756923",
-          "lat": 13.747523,
-          "lng": 100.538361
-        }
-      ],
-      "spot": []
     },
     "danang": {
       "name": "다낭",
