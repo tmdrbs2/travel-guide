@@ -240,6 +240,106 @@ window.DATA = {
     }
   ],
   "cities": {
+    "guam": {
+      "name": "괌",
+      "center": [
+        13.515,
+        144.805
+      ],
+      "zoom": 12,
+      "info": [
+        {
+          "title": "괌 렌터카 예약 가이드, 공항 픽업·차종·가격·보험 확인 포인트 총정리",
+          "url": "https://blog.naver.com/gilbomm/224430145659"
+        }
+      ],
+      "food": [],
+      "hotel": [
+        {
+          "title": "롯데호텔 괌",
+          "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1977467&hl=ko-kr&hid=564711",
+          "lat": 13.520281,
+          "lng": 144.807165
+        },
+        {
+          "title": "두짓타니 괌 리조트",
+          "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1977467&hl=ko-kr&hid=870053",
+          "lat": 13.513799,
+          "lng": 144.805006
+        },
+        {
+          "title": "힐튼 괌 리조트 & 스파",
+          "url": "https://3ha.in/r/757157",
+          "lat": 13.505904,
+          "lng": 144.785805
+        }
+      ],
+      "spot": []
+    },
+    "osaka": {
+      "name": "오사카",
+      "center": [
+        34.6937,
+        135.5023
+      ],
+      "zoom": 12,
+      "info": [
+        {
+          "title": "오사카 시내에서 유니버설 스튜디오 재팬 가는 법, JR·난바·버스",
+          "url": "https://blog.naver.com/gilbomm/224443806446"
+        },
+        {
+          "title": "간사이 공항 난바 라피트 티켓 예약, 좌석 지정·가격 안내",
+          "url": "https://blog.naver.com/gilbomm/224438563935"
+        },
+        {
+          "title": "오사카 주유패스 1일권·2일권 비교, 이용 가능 시설·교통 범위·사용법 총정리",
+          "url": "https://blog.naver.com/gilbomm/224431683297"
+        }
+      ],
+      "food": [
+        {
+          "title": "도톤보리 맛집 TOP5",
+          "url": "https://blog.naver.com/gilbomm/224444558832",
+          "lat": 34.668533,
+          "lng": 135.503204
+        }
+      ],
+      "hotel": [
+        {
+          "title": "호텔 한큐 레스파이어 오사카",
+          "url": "https://3ha.in/r/795695",
+          "lat": 34.704587,
+          "lng": 135.496012
+        },
+        {
+          "title": "더 파크 프런트 호텔 앳 USJ",
+          "url": "https://3ha.in/r/782261",
+          "lat": 34.66776,
+          "lng": 135.437197
+        },
+        {
+          "title": "스위소텔 난카이 오사카",
+          "url": "https://3ha.in/r/780362",
+          "lat": 34.664168,
+          "lng": 135.501328
+        },
+        {
+          "title": "크로스 호텔 오사카",
+          "url": "https://3ha.in/r/756851",
+          "lat": 34.669705,
+          "lng": 135.500819
+        }
+      ],
+      "spot": [
+        {
+          "title": "유니버설 스튜디오 재팬 입장권",
+          "url": "https://3ha.in/r/756956",
+          "lat": 34.665639,
+          "lng": 135.432453
+        }
+      ]
+    },
     "tokyo": {
       "name": "도쿄",
       "center": [
@@ -352,63 +452,6 @@ window.DATA = {
         }
       ],
       "spot": []
-    },
-    "osaka": {
-      "name": "오사카",
-      "center": [
-        34.6937,
-        135.5023
-      ],
-      "zoom": 12,
-      "info": [
-        {
-          "title": "오사카 시내에서 유니버설 스튜디오 재팬 가는 법, JR·난바·버스",
-          "url": "https://blog.naver.com/gilbomm/224443806446"
-        },
-        {
-          "title": "간사이 공항 난바 라피트 티켓 예약, 좌석 지정·가격 안내",
-          "url": "https://blog.naver.com/gilbomm/224438563935"
-        },
-        {
-          "title": "오사카 주유패스 1일권·2일권 비교, 이용 가능 시설·교통 범위·사용법 총정리",
-          "url": "https://blog.naver.com/gilbomm/224431683297"
-        }
-      ],
-      "food": [],
-      "hotel": [
-        {
-          "title": "호텔 한큐 레스파이어 오사카",
-          "url": "https://3ha.in/r/795695",
-          "lat": 34.704587,
-          "lng": 135.496012
-        },
-        {
-          "title": "더 파크 프런트 호텔 앳 USJ",
-          "url": "https://3ha.in/r/782261",
-          "lat": 34.66776,
-          "lng": 135.437197
-        },
-        {
-          "title": "스위소텔 난카이 오사카",
-          "url": "https://3ha.in/r/780362",
-          "lat": 34.664168,
-          "lng": 135.501328
-        },
-        {
-          "title": "크로스 호텔 오사카",
-          "url": "https://3ha.in/r/756851",
-          "lat": 34.669705,
-          "lng": 135.500819
-        }
-      ],
-      "spot": [
-        {
-          "title": "유니버설 스튜디오 재팬 입장권",
-          "url": "https://3ha.in/r/756956",
-          "lat": 34.665639,
-          "lng": 135.432453
-        }
-      ]
     },
     "singapore": {
       "name": "싱가포르",
@@ -559,36 +602,6 @@ window.DATA = {
           "lng": 114.040985
         }
       ]
-    },
-    "guam": {
-      "name": "괌",
-      "center": [
-        13.515,
-        144.805
-      ],
-      "zoom": 12,
-      "info": [
-        {
-          "title": "괌 렌터카 예약 가이드, 공항 픽업·차종·가격·보험 확인 포인트 총정리",
-          "url": "https://blog.naver.com/gilbomm/224430145659"
-        }
-      ],
-      "food": [],
-      "hotel": [
-        {
-          "title": "두짓타니 괌 리조트",
-          "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1977467&hl=ko-kr&hid=870053",
-          "lat": 13.513799,
-          "lng": 144.805006
-        },
-        {
-          "title": "힐튼 괌 리조트 & 스파",
-          "url": "https://3ha.in/r/757157",
-          "lat": 13.505904,
-          "lng": 144.785805
-        }
-      ],
-      "spot": []
     },
     "taipei": {
       "name": "타이베이",
