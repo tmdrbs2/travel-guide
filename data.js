@@ -249,6 +249,10 @@ window.DATA = {
       "zoom": 12,
       "info": [
         {
+          "title": "오사카 시내에서 유니버설 스튜디오 재팬 가는 법, JR·난바·버스",
+          "url": "https://blog.naver.com/gilbomm/224443806446"
+        },
+        {
           "title": "간사이 공항 난바 라피트 티켓 예약, 좌석 지정·가격 안내",
           "url": "https://blog.naver.com/gilbomm/224438563935"
         },
