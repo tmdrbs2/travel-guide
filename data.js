@@ -240,6 +240,53 @@ window.DATA = {
     }
   ],
   "cities": {
+    "singapore": {
+      "name": "싱가포르",
+      "center": [
+        1.2903,
+        103.8519
+      ],
+      "zoom": 12,
+      "info": [
+        {
+          "title": "싱가포르 창이 공항에서 시내 가는 법, MRT·버스·그랩·택시",
+          "url": "https://blog.naver.com/gilbomm/224444332531"
+        },
+        {
+          "title": "싱가포르 입국카드 SG Arrival Card 작성 방법·제출 시기",
+          "url": "https://blog.naver.com/gilbomm/224438277189"
+        }
+      ],
+      "food": [],
+      "hotel": [
+        {
+          "title": "팬 퍼시픽 오차드",
+          "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1977467&hl=ko-kr&hid=59913000",
+          "lat": 1.307345,
+          "lng": 103.829862
+        },
+        {
+          "title": "파크로열 컬렉션 피커링",
+          "url": "https://3ha.in/r/782138",
+          "lat": 1.285657,
+          "lng": 103.846257
+        },
+        {
+          "title": "마리나 베이 샌즈",
+          "url": "https://3ha.in/r/757106",
+          "lat": 1.283697,
+          "lng": 103.860723
+        }
+      ],
+      "spot": [
+        {
+          "title": "유니버설 스튜디오 싱가포르 티켓",
+          "url": "https://3ha.in/r/795326",
+          "lat": 1.254201,
+          "lng": 103.822667
+        }
+      ]
+    },
     "danang": {
       "name": "다낭",
       "center": [
@@ -507,49 +554,6 @@ window.DATA = {
         }
       ],
       "spot": []
-    },
-    "singapore": {
-      "name": "싱가포르",
-      "center": [
-        1.2903,
-        103.8519
-      ],
-      "zoom": 12,
-      "info": [
-        {
-          "title": "싱가포르 입국카드 SG Arrival Card 작성 방법·제출 시기",
-          "url": "https://blog.naver.com/gilbomm/224438277189"
-        }
-      ],
-      "food": [],
-      "hotel": [
-        {
-          "title": "팬 퍼시픽 오차드",
-          "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1977467&hl=ko-kr&hid=59913000",
-          "lat": 1.307345,
-          "lng": 103.829862
-        },
-        {
-          "title": "파크로열 컬렉션 피커링",
-          "url": "https://3ha.in/r/782138",
-          "lat": 1.285657,
-          "lng": 103.846257
-        },
-        {
-          "title": "마리나 베이 샌즈",
-          "url": "https://3ha.in/r/757106",
-          "lat": 1.283697,
-          "lng": 103.860723
-        }
-      ],
-      "spot": [
-        {
-          "title": "유니버설 스튜디오 싱가포르 티켓",
-          "url": "https://3ha.in/r/795326",
-          "lat": 1.254201,
-          "lng": 103.822667
-        }
-      ]
     },
     "hanoi": {
       "name": "하노이",
