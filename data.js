@@ -240,6 +240,55 @@ window.DATA = {
     }
   ],
   "cities": {
+    "taipei": {
+      "name": "타이베이",
+      "center": [
+        25.0478,
+        121.517
+      ],
+      "zoom": 13,
+      "info": [
+        {
+          "title": "대만 입국신고서 TWAC 작성 방법, 입국 7일 전부터 온라인 제출",
+          "url": "https://blog.naver.com/gilbomm/224438531547"
+        }
+      ],
+      "food": [
+        {
+          "title": "융캉제 맛집 TOP5",
+          "url": "https://blog.naver.com/gilbomm/224444526215",
+          "lat": 25.033,
+          "lng": 121.5297
+        }
+      ],
+      "hotel": [
+        {
+          "title": "시티즌M 타이베이 노스 게이트",
+          "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1977467&hl=ko-kr&hid=2079109",
+          "lat": 25.047297,
+          "lng": 121.510604
+        },
+        {
+          "title": "시저 파크 호텔 타이베이",
+          "url": "https://3ha.in/r/795297",
+          "lat": 25.046111,
+          "lng": 121.516295
+        },
+        {
+          "title": "험블 하우스 타이베이",
+          "url": "https://3ha.in/r/767007",
+          "lat": 25.038606,
+          "lng": 121.567378
+        },
+        {
+          "title": "코스모스 호텔 타이베이",
+          "url": "https://3ha.in/r/757055",
+          "lat": 25.046356,
+          "lng": 121.518336
+        }
+      ],
+      "spot": []
+    },
     "singapore": {
       "name": "싱가포르",
       "center": [
@@ -661,49 +710,6 @@ window.DATA = {
           "lng": 114.040985
         }
       ]
-    },
-    "taipei": {
-      "name": "타이베이",
-      "center": [
-        25.0478,
-        121.517
-      ],
-      "zoom": 13,
-      "info": [
-        {
-          "title": "대만 입국신고서 TWAC 작성 방법, 입국 7일 전부터 온라인 제출",
-          "url": "https://blog.naver.com/gilbomm/224438531547"
-        }
-      ],
-      "food": [
-        {
-          "title": "융캉제 맛집 TOP5",
-          "url": "https://blog.naver.com/gilbomm/224444526215",
-          "lat": 25.033,
-          "lng": 121.5297
-        }
-      ],
-      "hotel": [
-        {
-          "title": "시저 파크 호텔 타이베이",
-          "url": "https://3ha.in/r/795297",
-          "lat": 25.046111,
-          "lng": 121.516295
-        },
-        {
-          "title": "험블 하우스 타이베이",
-          "url": "https://3ha.in/r/767007",
-          "lat": 25.038606,
-          "lng": 121.567378
-        },
-        {
-          "title": "코스모스 호텔 타이베이",
-          "url": "https://3ha.in/r/757055",
-          "lat": 25.046356,
-          "lng": 121.518336
-        }
-      ],
-      "spot": []
     },
     "paris": {
       "name": "파리",
