@@ -240,6 +240,50 @@ window.DATA = {
     }
   ],
   "cities": {
+    "hongkong": {
+      "name": "홍콩",
+      "center": [
+        22.3027,
+        114.1772
+      ],
+      "zoom": 12,
+      "info": [],
+      "food": [],
+      "hotel": [
+        {
+          "title": "호텔 아이콘 홍콩",
+          "url": "https://3ha.in/r/782395",
+          "lat": 22.300802,
+          "lng": 114.179654
+        },
+        {
+          "title": "하얏트 리젠시 홍콩 침사추이",
+          "url": "https://3ha.in/r/761072",
+          "lat": 22.297517,
+          "lng": 114.173844
+        }
+      ],
+      "spot": [
+        {
+          "title": "옹핑 360 케이블카 티켓",
+          "url": "https://3ha.in/r/795753",
+          "lat": 22.289148,
+          "lng": 113.94098
+        },
+        {
+          "title": "홍콩 피크트램 티켓",
+          "url": "https://3ha.in/r/795329",
+          "lat": 22.27772,
+          "lng": 114.15955
+        },
+        {
+          "title": "홍콩 디즈니랜드 티켓",
+          "url": "https://blog.naver.com/gilbomm/224437842774",
+          "lat": 22.31307,
+          "lng": 114.040985
+        }
+      ]
+    },
     "nhatrang": {
       "name": "나트랑",
       "center": [
@@ -774,44 +818,6 @@ window.DATA = {
           "url": "https://3ha.in/r/763525",
           "lat": 41.904961,
           "lng": 12.454662
-        }
-      ]
-    },
-    "hongkong": {
-      "name": "홍콩",
-      "center": [
-        22.3027,
-        114.1772
-      ],
-      "zoom": 12,
-      "info": [],
-      "food": [],
-      "hotel": [
-        {
-          "title": "호텔 아이콘 홍콩",
-          "url": "https://3ha.in/r/782395",
-          "lat": 22.300802,
-          "lng": 114.179654
-        },
-        {
-          "title": "하얏트 리젠시 홍콩 침사추이",
-          "url": "https://3ha.in/r/761072",
-          "lat": 22.297517,
-          "lng": 114.173844
-        }
-      ],
-      "spot": [
-        {
-          "title": "홍콩 피크트램 티켓",
-          "url": "https://3ha.in/r/795329",
-          "lat": 22.27772,
-          "lng": 114.15955
-        },
-        {
-          "title": "홍콩 디즈니랜드 티켓",
-          "url": "https://blog.naver.com/gilbomm/224437842774",
-          "lat": 22.31307,
-          "lng": 114.040985
         }
       ]
     },
