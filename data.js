@@ -240,6 +240,31 @@ window.DATA = {
     }
   ],
   "cities": {
+    "nhatrang": {
+      "name": "나트랑",
+      "center": [
+        12.2388,
+        109.1967
+      ],
+      "zoom": 12,
+      "info": [],
+      "food": [],
+      "hotel": [
+        {
+          "title": "빈펄 리조트 나트랑",
+          "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1977467&hl=ko-kr&hid=65153",
+          "lat": 12.224533,
+          "lng": 109.239683
+        },
+        {
+          "title": "쉐라톤 나트랑 호텔 & 스파",
+          "url": "https://3ha.in/r/757140",
+          "lat": 12.246256,
+          "lng": 109.19588
+        }
+      ],
+      "spot": []
+    },
     "tokyo": {
       "name": "도쿄",
       "center": [
@@ -1286,25 +1311,6 @@ window.DATA = {
           "url": "https://3ha.in/r/761008",
           "lat": 35.008315,
           "lng": 135.761911
-        }
-      ],
-      "spot": []
-    },
-    "nhatrang": {
-      "name": "나트랑",
-      "center": [
-        12.2388,
-        109.1967
-      ],
-      "zoom": 12,
-      "info": [],
-      "food": [],
-      "hotel": [
-        {
-          "title": "쉐라톤 나트랑 호텔 & 스파",
-          "url": "https://3ha.in/r/757140",
-          "lat": 12.246256,
-          "lng": 109.19588
         }
       ],
       "spot": []
