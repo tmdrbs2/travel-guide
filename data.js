@@ -16,7 +16,6 @@ window.DATA = {
           "cities": [
             "osaka",
             "tokyo",
-            "kyoto",
             "fukuoka",
             "sapporo",
             "okinawa"
@@ -44,14 +43,6 @@ window.DATA = {
           "emoji": "🇭🇰",
           "cities": [
             "hongkong"
-          ]
-        },
-        {
-          "id": "macau",
-          "name": "마카오",
-          "emoji": "🇲🇴",
-          "cities": [
-            "macau"
           ]
         },
         {
@@ -95,8 +86,7 @@ window.DATA = {
           "name": "말레이시아",
           "emoji": "🇲🇾",
           "cities": [
-            "kualalumpur",
-            "kotakinabalu"
+            "kualalumpur"
           ]
         },
         {
@@ -201,7 +191,6 @@ window.DATA = {
             "newyork",
             "lasvegas",
             "losangeles",
-            "sanfrancisco",
             "honolulu"
           ]
         }
@@ -226,14 +215,6 @@ window.DATA = {
           "emoji": "🇬🇺",
           "cities": [
             "guam"
-          ]
-        },
-        {
-          "id": "saipan",
-          "name": "사이판",
-          "emoji": "🇲🇵",
-          "cities": [
-            "saipan"
           ]
         }
       ]
@@ -295,12 +276,6 @@ window.DATA = {
           "lng": 114.177002
         },
         {
-          "title": "호텔 아이콘 홍콩",
-          "url": "https://3ha.in/r/782395",
-          "lat": 22.300802,
-          "lng": 114.179654
-        },
-        {
           "title": "하얏트 리젠시 홍콩 침사추이",
           "url": "https://3ha.in/r/761072",
           "lat": 22.297517,
@@ -308,12 +283,6 @@ window.DATA = {
         }
       ],
       "spot": [
-        {
-          "title": "옹핑 360 케이블카 티켓",
-          "url": "https://3ha.in/r/795753",
-          "lat": 22.289148,
-          "lng": 113.94098
-        },
         {
           "title": "홍콩 피크트램 티켓",
           "url": "https://3ha.in/r/795329",
@@ -343,12 +312,6 @@ window.DATA = {
           "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1977467&hl=ko-kr&hid=65153",
           "lat": 12.224533,
           "lng": 109.239683
-        },
-        {
-          "title": "쉐라톤 나트랑 호텔 & 스파",
-          "url": "https://3ha.in/r/757140",
-          "lat": 12.246256,
-          "lng": 109.19588
         }
       ],
       "spot": []
@@ -399,22 +362,10 @@ window.DATA = {
       ],
       "spot": [
         {
-          "title": "팀랩 플래닛 도쿄 티켓",
-          "url": "https://3ha.in/r/795734",
-          "lat": 35.64938,
-          "lng": 139.789728
-        },
-        {
           "title": "도쿄 디즈니 리조트 티켓",
           "url": "https://blog.naver.com/gilbomm/224437921592",
           "lat": 35.632659,
           "lng": 139.881417
-        },
-        {
-          "title": "시부야 스카이 입장권",
-          "url": "https://3ha.in/r/761099",
-          "lat": 35.658379,
-          "lng": 139.702216
         }
       ]
     },
@@ -435,12 +386,6 @@ window.DATA = {
           "lng": -157.830244
         },
         {
-          "title": "힐튼 하와이안 빌리지 와이키키",
-          "url": "https://3ha.in/r/782151",
-          "lat": 21.283032,
-          "lng": -157.836962
-        },
-        {
           "title": "하얏트 리젠시 와이키키 비치 리조트",
           "url": "https://3ha.in/r/756988",
           "lat": 21.276067,
@@ -456,12 +401,7 @@ window.DATA = {
         108.2022
       ],
       "zoom": 12,
-      "info": [
-        {
-          "title": "베트남 입국 준비, 사전 입국 정보 PAI 작성법과 무비자 45일",
-          "url": "https://blog.naver.com/gilbomm/224438575713"
-        }
-      ],
+      "info": [],
       "food": [
         {
           "title": "다낭 한시장 맛집 TOP5",
@@ -494,75 +434,9 @@ window.DATA = {
           "url": "https://blog.naver.com/gilbomm/224438006971",
           "lat": 16.075625,
           "lng": 108.246878
-        },
-        {
-          "title": "하얏트 리젠시 다낭 리조트 앤 스파",
-          "url": "https://3ha.in/r/756534",
-          "lat": 16.012589,
-          "lng": 108.263775
         }
       ],
-      "spot": [
-        {
-          "title": "바나힐 입장권",
-          "url": "https://3ha.in/r/782428",
-          "lat": 15.995857,
-          "lng": 107.989071
-        }
-      ]
-    },
-    "singapore": {
-      "name": "싱가포르",
-      "center": [
-        1.2903,
-        103.8519
-      ],
-      "zoom": 12,
-      "info": [
-        {
-          "title": "싱가포르 창이 공항에서 시내 가는 법, MRT·버스·그랩·택시",
-          "url": "https://blog.naver.com/gilbomm/224444332531"
-        },
-        {
-          "title": "싱가포르 입국카드 SG Arrival Card 작성 방법·제출 시기",
-          "url": "https://blog.naver.com/gilbomm/224438277189"
-        }
-      ],
-      "food": [],
-      "hotel": [
-        {
-          "title": "팬 퍼시픽 오차드",
-          "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1977467&hl=ko-kr&hid=59913000",
-          "lat": 1.307345,
-          "lng": 103.829862
-        },
-        {
-          "title": "파크로열 컬렉션 피커링",
-          "url": "https://3ha.in/r/782138",
-          "lat": 1.285657,
-          "lng": 103.846257
-        },
-        {
-          "title": "마리나 베이 샌즈",
-          "url": "https://3ha.in/r/757106",
-          "lat": 1.283697,
-          "lng": 103.860723
-        }
-      ],
-      "spot": [
-        {
-          "title": "가든스 바이 더 베이 티켓",
-          "url": "https://3ha.in/r/795744",
-          "lat": 1.27914,
-          "lng": 103.867928
-        },
-        {
-          "title": "유니버설 스튜디오 싱가포르 티켓",
-          "url": "https://3ha.in/r/795326",
-          "lat": 1.254201,
-          "lng": 103.822667
-        }
-      ]
+      "spot": []
     },
     "taipei": {
       "name": "타이베이",
@@ -571,12 +445,7 @@ window.DATA = {
         121.517
       ],
       "zoom": 13,
-      "info": [
-        {
-          "title": "대만 입국신고서 TWAC 작성 방법, 입국 7일 전부터 온라인 제출",
-          "url": "https://blog.naver.com/gilbomm/224438531547"
-        }
-      ],
+      "info": [],
       "food": [
         {
           "title": "융캉제 맛집 TOP5",
@@ -613,6 +482,47 @@ window.DATA = {
       ],
       "spot": []
     },
+    "singapore": {
+      "name": "싱가포르",
+      "center": [
+        1.2903,
+        103.8519
+      ],
+      "zoom": 12,
+      "info": [
+        {
+          "title": "싱가포르 창이 공항에서 시내 가는 법, MRT·버스·그랩·택시",
+          "url": "https://blog.naver.com/gilbomm/224444332531"
+        },
+        {
+          "title": "싱가포르 입국카드 SG Arrival Card 작성 방법·제출 시기",
+          "url": "https://blog.naver.com/gilbomm/224438277189"
+        }
+      ],
+      "food": [],
+      "hotel": [
+        {
+          "title": "팬 퍼시픽 오차드",
+          "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1977467&hl=ko-kr&hid=59913000",
+          "lat": 1.307345,
+          "lng": 103.829862
+        },
+        {
+          "title": "파크로열 컬렉션 피커링",
+          "url": "https://3ha.in/r/782138",
+          "lat": 1.285657,
+          "lng": 103.846257
+        }
+      ],
+      "spot": [
+        {
+          "title": "유니버설 스튜디오 싱가포르 티켓",
+          "url": "https://3ha.in/r/795326",
+          "lat": 1.254201,
+          "lng": 103.822667
+        }
+      ]
+    },
     "guam": {
       "name": "괌",
       "center": [
@@ -620,12 +530,7 @@ window.DATA = {
         144.805
       ],
       "zoom": 12,
-      "info": [
-        {
-          "title": "괌 렌터카 예약 가이드, 공항 픽업·차종·가격·보험 확인 포인트 총정리",
-          "url": "https://blog.naver.com/gilbomm/224430145659"
-        }
-      ],
+      "info": [],
       "food": [],
       "hotel": [
         {
@@ -664,10 +569,6 @@ window.DATA = {
         {
           "title": "간사이 공항 난바 라피트 티켓 예약, 좌석 지정·가격 안내",
           "url": "https://blog.naver.com/gilbomm/224438563935"
-        },
-        {
-          "title": "오사카 주유패스 1일권·2일권 비교, 이용 가능 시설·교통 범위·사용법 총정리",
-          "url": "https://blog.naver.com/gilbomm/224431683297"
         }
       ],
       "food": [
@@ -680,22 +581,10 @@ window.DATA = {
       ],
       "hotel": [
         {
-          "title": "호텔 한큐 레스파이어 오사카",
-          "url": "https://3ha.in/r/795695",
-          "lat": 34.704587,
-          "lng": 135.496012
-        },
-        {
           "title": "더 파크 프런트 호텔 앳 USJ",
           "url": "https://3ha.in/r/782261",
           "lat": 34.66776,
           "lng": 135.437197
-        },
-        {
-          "title": "스위소텔 난카이 오사카",
-          "url": "https://3ha.in/r/780362",
-          "lat": 34.664168,
-          "lng": 135.501328
         },
         {
           "title": "크로스 호텔 오사카",
@@ -739,18 +628,6 @@ window.DATA = {
           "lng": 100.491371
         },
         {
-          "title": "빠툼완 프린세스 호텔",
-          "url": "https://3ha.in/r/782251",
-          "lat": 13.743459,
-          "lng": 100.529695
-        },
-        {
-          "title": "그랜드 센터 포인트 터미널 21",
-          "url": "https://3ha.in/r/780367",
-          "lat": 13.738245,
-          "lng": 100.560731
-        },
-        {
           "title": "방콕 BTS역 근처 호텔 TOP5",
           "url": "https://3ha.in/r/757173",
           "lat": 13.745625,
@@ -765,107 +642,6 @@ window.DATA = {
       ],
       "spot": []
     },
-    "hanoi": {
-      "name": "하노이",
-      "center": [
-        21.0285,
-        105.8542
-      ],
-      "zoom": 13,
-      "info": [],
-      "food": [
-        {
-          "title": "하노이 구시가지 맛집 TOP5",
-          "url": "https://blog.naver.com/gilbomm/224444542145",
-          "lat": 21.034,
-          "lng": 105.85
-        }
-      ],
-      "hotel": [
-        {
-          "title": "롯데호텔 하노이",
-          "url": "https://3ha.in/r/795305",
-          "lat": 21.032168,
-          "lng": 105.812493
-        },
-        {
-          "title": "소피텔 레전드 메트로폴 하노이",
-          "url": "https://3ha.in/r/763569",
-          "lat": 21.025488,
-          "lng": 105.855978
-        }
-      ],
-      "spot": []
-    },
-    "rome": {
-      "name": "로마",
-      "center": [
-        41.9028,
-        12.4964
-      ],
-      "zoom": 12,
-      "info": [
-        {
-          "title": "이탈리아 기차표·버스표 사는 법과 개찰 방법, 종이표 안 찍으면 벌금",
-          "url": "https://blog.naver.com/gilbomm/224444310455"
-        }
-      ],
-      "food": [],
-      "hotel": [
-        {
-          "title": "호텔 퀴리날레",
-          "url": "https://3ha.in/r/757127",
-          "lat": 41.901636,
-          "lng": 12.494837
-        }
-      ],
-      "spot": [
-        {
-          "title": "이탈리아 남부 1박2일 투어(포지타노·카프리)",
-          "url": "https://blog.naver.com/gilbomm/224437949566",
-          "lat": 40.628658,
-          "lng": 14.485496
-        },
-        {
-          "title": "바티칸 박물관 입장권",
-          "url": "https://3ha.in/r/763525",
-          "lat": 41.904961,
-          "lng": 12.454662
-        }
-      ]
-    },
-    "paris": {
-      "name": "파리",
-      "center": [
-        48.8566,
-        2.3522
-      ],
-      "zoom": 12,
-      "info": [],
-      "food": [],
-      "hotel": [
-        {
-          "title": "풀만 파리 타워 에펠",
-          "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1977467&hl=ko-kr&hid=7266",
-          "lat": 48.855502,
-          "lng": 2.292683
-        },
-        {
-          "title": "노보텔 파리 센터 투어 에펠",
-          "url": "https://3ha.in/r/756905",
-          "lat": 48.849957,
-          "lng": 2.283276
-        }
-      ],
-      "spot": [
-        {
-          "title": "루브르 박물관 입장권",
-          "url": "https://3ha.in/r/767018",
-          "lat": 48.861147,
-          "lng": 2.338028
-        }
-      ]
-    },
     "cebu": {
       "name": "세부",
       "center": [
@@ -873,12 +649,7 @@ window.DATA = {
         123.96
       ],
       "zoom": 11,
-      "info": [
-        {
-          "title": "필리핀 eTravel 작성 방법, 입국 72시간 전 무료 등록과 QR",
-          "url": "https://blog.naver.com/gilbomm/224438589578"
-        }
-      ],
+      "info": [],
       "food": [],
       "hotel": [
         {
@@ -947,24 +718,30 @@ window.DATA = {
       ],
       "spot": []
     },
-    "sanfrancisco": {
-      "name": "샌프란시스코",
+    "rome": {
+      "name": "로마",
       "center": [
-        37.788,
-        -122.4075
+        41.9028,
+        12.4964
       ],
-      "zoom": 13,
+      "zoom": 12,
       "info": [],
       "food": [],
-      "hotel": [
+      "hotel": [],
+      "spot": [
         {
-          "title": "힐튼 샌프란시스코 유니언 스퀘어",
-          "url": "https://3ha.in/r/778419",
-          "lat": 37.785734,
-          "lng": -122.410437
+          "title": "이탈리아 남부 1박2일 투어(포지타노·카프리)",
+          "url": "https://blog.naver.com/gilbomm/224437949566",
+          "lat": 40.628658,
+          "lng": 14.485496
+        },
+        {
+          "title": "바티칸 박물관 입장권",
+          "url": "https://3ha.in/r/763525",
+          "lat": 41.904961,
+          "lng": 12.454662
         }
-      ],
-      "spot": []
+      ]
     },
     "dubai": {
       "name": "두바이",
@@ -1163,43 +940,24 @@ window.DATA = {
       ],
       "spot": []
     },
-    "kotakinabalu": {
-      "name": "코타키나발루",
+    "paris": {
+      "name": "파리",
       "center": [
-        5.9804,
-        116.0735
+        48.8566,
+        2.3522
       ],
       "zoom": 12,
       "info": [],
       "food": [],
-      "hotel": [
+      "hotel": [],
+      "spot": [
         {
-          "title": "샹그릴라 탄중 아루 리조트",
-          "url": "https://3ha.in/r/767150",
-          "lat": 5.955622,
-          "lng": 116.042089
+          "title": "루브르 박물관 입장권",
+          "url": "https://3ha.in/r/767018",
+          "lat": 48.861147,
+          "lng": 2.338028
         }
-      ],
-      "spot": []
-    },
-    "saipan": {
-      "name": "사이판",
-      "center": [
-        15.21,
-        145.72
-      ],
-      "zoom": 12,
-      "info": [],
-      "food": [],
-      "hotel": [
-        {
-          "title": "크라운 플라자 리조트 사이판",
-          "url": "https://3ha.in/r/767148",
-          "lat": 15.213985,
-          "lng": 145.71687
-        }
-      ],
-      "spot": []
+      ]
     },
     "prague": {
       "name": "프라하",
@@ -1235,6 +993,25 @@ window.DATA = {
           "url": "https://3ha.in/r/767009",
           "lat": 35.156825,
           "lng": 129.14143
+        }
+      ],
+      "spot": []
+    },
+    "hanoi": {
+      "name": "하노이",
+      "center": [
+        21.0285,
+        105.8542
+      ],
+      "zoom": 13,
+      "info": [],
+      "food": [],
+      "hotel": [
+        {
+          "title": "소피텔 레전드 메트로폴 하노이",
+          "url": "https://3ha.in/r/763569",
+          "lat": 21.025488,
+          "lng": 105.855978
         }
       ],
       "spot": []
@@ -1277,25 +1054,6 @@ window.DATA = {
       ],
       "spot": []
     },
-    "macau": {
-      "name": "마카오",
-      "center": [
-        22.1655,
-        113.56
-      ],
-      "zoom": 13,
-      "info": [],
-      "food": [],
-      "hotel": [
-        {
-          "title": "그랜드 하얏트 마카오",
-          "url": "https://3ha.in/r/762003",
-          "lat": 22.148754,
-          "lng": 113.567637
-        }
-      ],
-      "spot": []
-    },
     "okinawa": {
       "name": "오키나와",
       "center": [
@@ -1311,25 +1069,6 @@ window.DATA = {
           "url": "https://3ha.in/r/762032",
           "lat": 26.318669,
           "lng": 127.75485
-        }
-      ],
-      "spot": []
-    },
-    "kyoto": {
-      "name": "교토",
-      "center": [
-        35.0116,
-        135.7681
-      ],
-      "zoom": 13,
-      "info": [],
-      "food": [],
-      "hotel": [
-        {
-          "title": "미츠이 가든 호텔 교토 산조 프리미어",
-          "url": "https://3ha.in/r/761008",
-          "lat": 35.008315,
-          "lng": 135.761911
         }
       ],
       "spot": []
