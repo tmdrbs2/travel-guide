@@ -251,6 +251,12 @@ window.DATA = {
       "food": [],
       "hotel": [
         {
+          "title": "카오룽 샹그릴라",
+          "url": "https://3ha.in/r/795714",
+          "lat": 22.297054,
+          "lng": 114.177002
+        },
+        {
           "title": "호텔 아이콘 홍콩",
           "url": "https://3ha.in/r/782395",
           "lat": 22.300802,
