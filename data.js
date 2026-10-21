@@ -240,6 +240,37 @@ window.DATA = {
     }
   ],
   "cities": {
+    "fukuoka": {
+      "name": "후쿠오카",
+      "center": [
+        33.5902,
+        130.4017
+      ],
+      "zoom": 13,
+      "info": [],
+      "food": [],
+      "hotel": [
+        {
+          "title": "더 블라썸 하카타 프리미어",
+          "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1977467&hl=ko-kr&hid=16216159",
+          "lat": 33.590247,
+          "lng": 130.414007
+        },
+        {
+          "title": "후쿠오카 공항 근처 vs 하카타 시내 호텔",
+          "url": "https://3ha.in/r/782164",
+          "lat": 33.590041,
+          "lng": 130.419903
+        },
+        {
+          "title": "호텔 닛코 후쿠오카",
+          "url": "https://3ha.in/r/757007",
+          "lat": 33.591509,
+          "lng": 130.417192
+        }
+      ],
+      "spot": []
+    },
     "honolulu": {
       "name": "호놀룰루(하와이)",
       "center": [
@@ -823,31 +854,6 @@ window.DATA = {
           "lng": 123.378636
         }
       ]
-    },
-    "fukuoka": {
-      "name": "후쿠오카",
-      "center": [
-        33.5902,
-        130.4017
-      ],
-      "zoom": 13,
-      "info": [],
-      "food": [],
-      "hotel": [
-        {
-          "title": "후쿠오카 공항 근처 vs 하카타 시내 호텔",
-          "url": "https://3ha.in/r/782164",
-          "lat": 33.590041,
-          "lng": 130.419903
-        },
-        {
-          "title": "호텔 닛코 후쿠오카",
-          "url": "https://3ha.in/r/757007",
-          "lat": 33.591509,
-          "lng": 130.417192
-        }
-      ],
-      "spot": []
     },
     "lisbon": {
       "name": "리스본",
