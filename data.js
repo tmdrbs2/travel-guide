@@ -109,6 +109,30 @@ window.DATA = {
     }
   ],
   "cities": {
+    "singapore": {
+      "name": "싱가포르",
+      "center": [
+        1.2903,
+        103.8519
+      ],
+      "zoom": 12,
+      "info": [
+        {
+          "title": "싱가포르 창이 공항에서 시내 가는 법, MRT·버스·그랩·택시",
+          "url": "https://blog.naver.com/gilbomm/224444332531"
+        }
+      ],
+      "food": [],
+      "hotel": [
+        {
+          "title": "샹그릴라 싱가포르",
+          "url": "https://3ha.in/r/795722",
+          "lat": 1.311479,
+          "lng": 103.826444
+        }
+      ],
+      "spot": []
+    },
     "fukuoka": {
       "name": "후쿠오카",
       "center": [
@@ -152,23 +176,6 @@ window.DATA = {
           "lng": 109.239683
         }
       ],
-      "spot": []
-    },
-    "singapore": {
-      "name": "싱가포르",
-      "center": [
-        1.2903,
-        103.8519
-      ],
-      "zoom": 12,
-      "info": [
-        {
-          "title": "싱가포르 창이 공항에서 시내 가는 법, MRT·버스·그랩·택시",
-          "url": "https://blog.naver.com/gilbomm/224444332531"
-        }
-      ],
-      "food": [],
-      "hotel": [],
       "spot": []
     },
     "guam": {
