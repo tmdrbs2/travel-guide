@@ -324,6 +324,41 @@ window.DATA = {
     }
   ],
   "cities": {
+    "sapporo": {
+      "name": "삿포로",
+      "center": [
+        43.0621,
+        141.3544
+      ],
+      "zoom": 13,
+      "info": [
+        {
+          "title": "신치토세 공항에서 삿포로 시내 가는 법, JR 쾌속·버스·택시 비교",
+          "url": "https://blog.naver.com/gilbomm/224490715527"
+        }
+      ],
+      "food": [
+        {
+          "title": "삿포로 맛집 TOP5",
+          "url": "https://blog.naver.com/gilbomm/224453639652",
+          "lat": 43.0605,
+          "lng": 141.3566
+        }
+      ],
+      "hotel": [
+        {
+          "title": "더 비 삿포로 (44402748)",
+          "url": "https://3ha.in/r/943089"
+        },
+        {
+          "title": "JR타워 호텔 닛코 삿포로",
+          "url": "https://blog.naver.com/gilbomm/224434629293",
+          "lat": 43.068218,
+          "lng": 141.352382
+        }
+      ],
+      "spot": []
+    },
     "oahu": {
       "name": "오아후 코올리나(하와이)",
       "center": [
@@ -612,36 +647,6 @@ window.DATA = {
           "lng": 127.8779
         }
       ]
-    },
-    "sapporo": {
-      "name": "삿포로",
-      "center": [
-        43.0621,
-        141.3544
-      ],
-      "zoom": 13,
-      "info": [],
-      "food": [
-        {
-          "title": "삿포로 맛집 TOP5",
-          "url": "https://blog.naver.com/gilbomm/224453639652",
-          "lat": 43.0605,
-          "lng": 141.3566
-        }
-      ],
-      "hotel": [
-        {
-          "title": "더 비 삿포로 (44402748)",
-          "url": "https://3ha.in/r/943089"
-        },
-        {
-          "title": "JR타워 호텔 닛코 삿포로",
-          "url": "https://blog.naver.com/gilbomm/224434629293",
-          "lat": 43.068218,
-          "lng": 141.352382
-        }
-      ],
-      "spot": []
     },
     "tokyo": {
       "name": "도쿄",
