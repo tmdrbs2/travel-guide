@@ -324,6 +324,120 @@ window.DATA = {
     }
   ],
   "cities": {
+    "hongkong": {
+      "name": "홍콩",
+      "center": [
+        22.3027,
+        114.1772
+      ],
+      "zoom": 12,
+      "info": [
+        {
+          "title": "홍콩 옥토퍼스 카드 사는 법, 종류·충전·환불 한눈에",
+          "url": "https://blog.naver.com/gilbomm/224459676685"
+        },
+        {
+          "title": "홍콩 공항에서 시내 가는 법, 공항철도·A21 버스·택시·우버 비교",
+          "url": "https://blog.naver.com/gilbomm/224444411938"
+        }
+      ],
+      "food": [
+        {
+          "title": "홍콩 완차이·코즈웨이베이 맛집 TOP5",
+          "url": "https://blog.naver.com/gilbomm/224484139575",
+          "lat": 22.2775,
+          "lng": 114.1795
+        },
+        {
+          "title": "홍콩 몽콕 맛집 TOP5",
+          "url": "https://blog.naver.com/gilbomm/224473633542",
+          "lat": 22.3193,
+          "lng": 114.1694
+        },
+        {
+          "title": "홍콩 센트럴·침사추이 맛집 TOP5",
+          "url": "https://blog.naver.com/gilbomm/224453070971",
+          "lat": 22.282,
+          "lng": 114.158
+        }
+      ],
+      "hotel": [
+        {
+          "title": "리츠칼튼 홍콩 (344926)",
+          "url": "https://3ha.in/r/958980"
+        },
+        {
+          "title": "코디스 홍콩 (344939)",
+          "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1977467&hl=ko-kr&hid=48636"
+        },
+        {
+          "title": "그랜드 하얏트 홍콩",
+          "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1977467&hl=ko-kr&hid=5913"
+        },
+        {
+          "title": "하얏트 리젠시 홍콩 침사추이",
+          "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1977467&hl=ko-kr&hid=168898"
+        },
+        {
+          "title": "더 페닌슐라 홍콩",
+          "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1977467&hl=ko-kr&hid=9729",
+          "lat": 22.2951,
+          "lng": 114.1724
+        },
+        {
+          "title": "카오룽 샹그릴라",
+          "url": "https://3ha.in/r/795714",
+          "lat": 22.297054,
+          "lng": 114.177002
+        },
+        {
+          "title": "호텔 아이콘 홍콩",
+          "url": "https://3ha.in/r/782395",
+          "lat": 22.300802,
+          "lng": 114.179654
+        },
+        {
+          "title": "하얏트 리젠시 홍콩 침사추이",
+          "url": "https://3ha.in/r/761072",
+          "lat": 22.297517,
+          "lng": 114.173844
+        }
+      ],
+      "spot": [
+        {
+          "title": "빅토리아 하버 야경 크루즈 럭셔리 드리머 (10690)",
+          "url": "https://3ha.in/r/930334"
+        },
+        {
+          "title": "홍콩 마담 투소 입장권 (액티비티 42)",
+          "url": "https://3ha.in/r/888696"
+        },
+        {
+          "title": "홍콩 오션파크 입장권",
+          "url": "https://3ha.in/r/843118",
+          "lat": 22.2465,
+          "lng": 114.1757
+        },
+        {
+          "title": "옹핑 360 케이블카 티켓",
+          "url": "https://3ha.in/r/795753",
+          "lat": 22.289148,
+          "lng": 113.94098
+        },
+        {
+          "title": "홍콩 피크트램 티켓",
+          "url": "https://3ha.in/r/795329",
+          "lat": 22.27772,
+          "lng": 114.15955
+        },
+        {
+          "title": "홍콩 디즈니랜드 티켓",
+          "url": "https://blog.naver.com/gilbomm/224437842774",
+          "lat": 22.31307,
+          "lng": 114.040985
+        }
+      ]
+    },
     "taipei": {
       "name": "타이베이",
       "center": [
@@ -710,116 +824,6 @@ window.DATA = {
         {
           "title": "유후인 벳푸 가마도 지옥 다자이후 한국어 가이드 일일 투어 (94584046)",
           "url": "https://blog.naver.com/gilbomm/224490674935"
-        }
-      ]
-    },
-    "hongkong": {
-      "name": "홍콩",
-      "center": [
-        22.3027,
-        114.1772
-      ],
-      "zoom": 12,
-      "info": [
-        {
-          "title": "홍콩 옥토퍼스 카드 사는 법, 종류·충전·환불 한눈에",
-          "url": "https://blog.naver.com/gilbomm/224459676685"
-        },
-        {
-          "title": "홍콩 공항에서 시내 가는 법, 공항철도·A21 버스·택시·우버 비교",
-          "url": "https://blog.naver.com/gilbomm/224444411938"
-        }
-      ],
-      "food": [
-        {
-          "title": "홍콩 완차이·코즈웨이베이 맛집 TOP5",
-          "url": "https://blog.naver.com/gilbomm/224484139575",
-          "lat": 22.2775,
-          "lng": 114.1795
-        },
-        {
-          "title": "홍콩 몽콕 맛집 TOP5",
-          "url": "https://blog.naver.com/gilbomm/224473633542",
-          "lat": 22.3193,
-          "lng": 114.1694
-        },
-        {
-          "title": "홍콩 센트럴·침사추이 맛집 TOP5",
-          "url": "https://blog.naver.com/gilbomm/224453070971",
-          "lat": 22.282,
-          "lng": 114.158
-        }
-      ],
-      "hotel": [
-        {
-          "title": "코디스 홍콩 (344939)",
-          "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1977467&hl=ko-kr&hid=48636"
-        },
-        {
-          "title": "그랜드 하얏트 홍콩",
-          "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1977467&hl=ko-kr&hid=5913"
-        },
-        {
-          "title": "하얏트 리젠시 홍콩 침사추이",
-          "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1977467&hl=ko-kr&hid=168898"
-        },
-        {
-          "title": "더 페닌슐라 홍콩",
-          "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1977467&hl=ko-kr&hid=9729",
-          "lat": 22.2951,
-          "lng": 114.1724
-        },
-        {
-          "title": "카오룽 샹그릴라",
-          "url": "https://3ha.in/r/795714",
-          "lat": 22.297054,
-          "lng": 114.177002
-        },
-        {
-          "title": "호텔 아이콘 홍콩",
-          "url": "https://3ha.in/r/782395",
-          "lat": 22.300802,
-          "lng": 114.179654
-        },
-        {
-          "title": "하얏트 리젠시 홍콩 침사추이",
-          "url": "https://3ha.in/r/761072",
-          "lat": 22.297517,
-          "lng": 114.173844
-        }
-      ],
-      "spot": [
-        {
-          "title": "빅토리아 하버 야경 크루즈 럭셔리 드리머 (10690)",
-          "url": "https://3ha.in/r/930334"
-        },
-        {
-          "title": "홍콩 마담 투소 입장권 (액티비티 42)",
-          "url": "https://3ha.in/r/888696"
-        },
-        {
-          "title": "홍콩 오션파크 입장권",
-          "url": "https://3ha.in/r/843118",
-          "lat": 22.2465,
-          "lng": 114.1757
-        },
-        {
-          "title": "옹핑 360 케이블카 티켓",
-          "url": "https://3ha.in/r/795753",
-          "lat": 22.289148,
-          "lng": 113.94098
-        },
-        {
-          "title": "홍콩 피크트램 티켓",
-          "url": "https://3ha.in/r/795329",
-          "lat": 22.27772,
-          "lng": 114.15955
-        },
-        {
-          "title": "홍콩 디즈니랜드 티켓",
-          "url": "https://blog.naver.com/gilbomm/224437842774",
-          "lat": 22.31307,
-          "lng": 114.040985
         }
       ]
     },
