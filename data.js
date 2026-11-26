@@ -324,6 +324,36 @@ window.DATA = {
     }
   ],
   "cities": {
+    "vienna": {
+      "name": "비엔나",
+      "center": [
+        48.2082,
+        16.3738
+      ],
+      "zoom": 12,
+      "info": [],
+      "food": [],
+      "hotel": [
+        {
+          "title": "호텔 자허 빈",
+          "url": "https://3ha.in/r/889985",
+          "lat": 48.2039,
+          "lng": 16.3693
+        },
+        {
+          "title": "비엔나 메리어트 호텔",
+          "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1977467&hl=ko-kr&hid=870951",
+          "lat": 48.2056,
+          "lng": 16.3786
+        }
+      ],
+      "spot": [
+        {
+          "title": "쇤브룬궁 (명소 78934)",
+          "url": "https://blog.naver.com/gilbomm/224492304644"
+        }
+      ]
+    },
     "hongkong": {
       "name": "홍콩",
       "center": [
@@ -1564,31 +1594,6 @@ window.DATA = {
           "lng": -73.9794
         }
       ]
-    },
-    "vienna": {
-      "name": "비엔나",
-      "center": [
-        48.2082,
-        16.3738
-      ],
-      "zoom": 12,
-      "info": [],
-      "food": [],
-      "hotel": [
-        {
-          "title": "호텔 자허 빈",
-          "url": "https://3ha.in/r/889985",
-          "lat": 48.2039,
-          "lng": 16.3693
-        },
-        {
-          "title": "비엔나 메리어트 호텔",
-          "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1977467&hl=ko-kr&hid=870951",
-          "lat": 48.2056,
-          "lng": 16.3786
-        }
-      ],
-      "spot": []
     },
     "bali": {
       "name": "발리",
