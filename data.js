@@ -324,6 +324,182 @@ window.DATA = {
     }
   ],
   "cities": {
+    "tokyo": {
+      "name": "도쿄",
+      "center": [
+        35.6812,
+        139.7671
+      ],
+      "zoom": 11,
+      "info": [
+        {
+          "title": "일본 택스프리 받는 법, 11월부터 바뀐 환급 방식 정리",
+          "url": "https://blog.naver.com/gilbomm/224484097374"
+        },
+        {
+          "title": "일본 여행 eSIM·유심 고르는 법, 포켓와이파이 비교와 설치법",
+          "url": "https://blog.naver.com/gilbomm/224481604699"
+        },
+        {
+          "title": "일본 신칸센 표 사는 법, 스마트EX·좌석 종류·큰 짐 규정",
+          "url": "https://blog.naver.com/gilbomm/224459983907"
+        },
+        {
+          "title": "도쿄 지하철 승차권 고르는 법, 서브웨이 티켓·1회권·IC카드 비교",
+          "url": "https://blog.naver.com/gilbomm/224459774356"
+        },
+        {
+          "title": "도쿄 나리타공항에서 시내 가는 법, 스카이라이너·N'EX·리무진·택시",
+          "url": "https://blog.naver.com/gilbomm/224453629887"
+        },
+        {
+          "title": "도쿄 하네다공항에서 시내 가는 법, 모노레일·게이큐·리무진버스·택시",
+          "url": "https://blog.naver.com/gilbomm/224451372587"
+        },
+        {
+          "title": "일본 교통카드 스이카·이코카 사는 법, 충전·개찰 터치·정산",
+          "url": "https://blog.naver.com/gilbomm/224444366225"
+        },
+        {
+          "title": "일본 입국 비짓재팬웹 등록 방법, QR 하나로 입국심사·세관 통과",
+          "url": "https://blog.naver.com/gilbomm/224438229754"
+        }
+      ],
+      "food": [
+        {
+          "title": "쓰키지 장외시장 맛집 TOP5",
+          "url": "https://blog.naver.com/gilbomm/224460009602",
+          "lat": 35.6655,
+          "lng": 139.7707
+        },
+        {
+          "title": "아사쿠사 맛집 TOP5",
+          "url": "https://blog.naver.com/gilbomm/224459692760",
+          "lat": 35.7111,
+          "lng": 139.796
+        },
+        {
+          "title": "도쿄 시부야·하라주쿠 맛집 TOP5",
+          "url": "https://blog.naver.com/gilbomm/224454754449",
+          "lat": 35.658,
+          "lng": 139.702
+        },
+        {
+          "title": "신주쿠 맛집 TOP5",
+          "url": "https://blog.naver.com/gilbomm/224444609111",
+          "lat": 35.691,
+          "lng": 139.702
+        }
+      ],
+      "hotel": [
+        {
+          "title": "미쓰이 가든 호텔 긴자 고초메",
+          "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1977467&hl=ko-kr&hid=6884484"
+        },
+        {
+          "title": "시부야 스트림 호텔",
+          "url": "https://3ha.in/r/930365"
+        },
+        {
+          "title": "더 도쿄 스테이션 호텔",
+          "url": "https://3ha.in/r/889992",
+          "lat": 35.6814,
+          "lng": 139.7671
+        },
+        {
+          "title": "게이오 플라자 호텔 도쿄 (hotelId 994639)",
+          "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1977467&hl=ko-kr&hid=7263"
+        },
+        {
+          "title": "아키하바라·우에노 호텔 TOP3",
+          "url": "https://3ha.in/r/891593",
+          "lat": 35.6984,
+          "lng": 139.7731
+        },
+        {
+          "title": "팰리스 호텔 도쿄",
+          "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1977467&hl=ko-kr&hid=10567649"
+        },
+        {
+          "title": "파크 하얏트 도쿄",
+          "url": "https://3ha.in/r/836120",
+          "lat": 35.6853,
+          "lng": 139.691
+        },
+        {
+          "title": "호텔 선루트 플라자 신주쿠",
+          "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1977467&hl=ko-kr&hid=9072885",
+          "lat": 35.687091,
+          "lng": 139.698881
+        },
+        {
+          "title": "호텔 메트로폴리탄 도쿄 이케부쿠로",
+          "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1977467&hl=ko-kr&hid=6063",
+          "lat": 35.728339,
+          "lng": 139.708001
+        },
+        {
+          "title": "미츠이 가든 호텔 긴자 프리미어",
+          "url": "https://3ha.in/r/778428",
+          "lat": 35.667112,
+          "lng": 139.763179
+        },
+        {
+          "title": "더 게이트 호텔 가미나리몬",
+          "url": "https://3ha.in/r/767004",
+          "lat": 35.71087,
+          "lng": 139.795216
+        },
+        {
+          "title": "호텔 그레이서리 신주쿠",
+          "url": "https://3ha.in/r/760856",
+          "lat": 35.695563,
+          "lng": 139.702277
+        }
+      ],
+      "spot": [
+        {
+          "title": "팀랩 보더리스 티켓: 모리 빌딩 디지털 아트 뮤지엄 (20707)",
+          "url": "https://3ha.in/r/939050"
+        },
+        {
+          "title": "도쿄 출발 후지산 당일 버스투어",
+          "url": "https://3ha.in/r/856880",
+          "lat": 35.5016,
+          "lng": 138.801
+        },
+        {
+          "title": "도쿄타워 전망대 입장권",
+          "url": "https://blog.naver.com/gilbomm/224459942599",
+          "lat": 35.6586,
+          "lng": 139.7454
+        },
+        {
+          "title": "도쿄 스카이트리 입장권",
+          "url": "https://3ha.in/r/823677",
+          "lat": 35.7101,
+          "lng": 139.8107
+        },
+        {
+          "title": "팀랩 플래닛 도쿄 티켓",
+          "url": "https://3ha.in/r/795734",
+          "lat": 35.64938,
+          "lng": 139.789728
+        },
+        {
+          "title": "도쿄 디즈니 리조트 티켓",
+          "url": "https://blog.naver.com/gilbomm/224437921592",
+          "lat": 35.632659,
+          "lng": 139.881417
+        },
+        {
+          "title": "시부야 스카이 입장권",
+          "url": "https://3ha.in/r/761099",
+          "lat": 35.658379,
+          "lng": 139.702216
+        }
+      ]
+    },
     "sapporo": {
       "name": "삿포로",
       "center": [
@@ -645,178 +821,6 @@ window.DATA = {
           "url": "https://3ha.in/r/839142",
           "lat": 26.6942,
           "lng": 127.8779
-        }
-      ]
-    },
-    "tokyo": {
-      "name": "도쿄",
-      "center": [
-        35.6812,
-        139.7671
-      ],
-      "zoom": 11,
-      "info": [
-        {
-          "title": "일본 택스프리 받는 법, 11월부터 바뀐 환급 방식 정리",
-          "url": "https://blog.naver.com/gilbomm/224484097374"
-        },
-        {
-          "title": "일본 여행 eSIM·유심 고르는 법, 포켓와이파이 비교와 설치법",
-          "url": "https://blog.naver.com/gilbomm/224481604699"
-        },
-        {
-          "title": "일본 신칸센 표 사는 법, 스마트EX·좌석 종류·큰 짐 규정",
-          "url": "https://blog.naver.com/gilbomm/224459983907"
-        },
-        {
-          "title": "도쿄 지하철 승차권 고르는 법, 서브웨이 티켓·1회권·IC카드 비교",
-          "url": "https://blog.naver.com/gilbomm/224459774356"
-        },
-        {
-          "title": "도쿄 나리타공항에서 시내 가는 법, 스카이라이너·N'EX·리무진·택시",
-          "url": "https://blog.naver.com/gilbomm/224453629887"
-        },
-        {
-          "title": "도쿄 하네다공항에서 시내 가는 법, 모노레일·게이큐·리무진버스·택시",
-          "url": "https://blog.naver.com/gilbomm/224451372587"
-        },
-        {
-          "title": "일본 교통카드 스이카·이코카 사는 법, 충전·개찰 터치·정산",
-          "url": "https://blog.naver.com/gilbomm/224444366225"
-        },
-        {
-          "title": "일본 입국 비짓재팬웹 등록 방법, QR 하나로 입국심사·세관 통과",
-          "url": "https://blog.naver.com/gilbomm/224438229754"
-        }
-      ],
-      "food": [
-        {
-          "title": "쓰키지 장외시장 맛집 TOP5",
-          "url": "https://blog.naver.com/gilbomm/224460009602",
-          "lat": 35.6655,
-          "lng": 139.7707
-        },
-        {
-          "title": "아사쿠사 맛집 TOP5",
-          "url": "https://blog.naver.com/gilbomm/224459692760",
-          "lat": 35.7111,
-          "lng": 139.796
-        },
-        {
-          "title": "도쿄 시부야·하라주쿠 맛집 TOP5",
-          "url": "https://blog.naver.com/gilbomm/224454754449",
-          "lat": 35.658,
-          "lng": 139.702
-        },
-        {
-          "title": "신주쿠 맛집 TOP5",
-          "url": "https://blog.naver.com/gilbomm/224444609111",
-          "lat": 35.691,
-          "lng": 139.702
-        }
-      ],
-      "hotel": [
-        {
-          "title": "시부야 스트림 호텔",
-          "url": "https://3ha.in/r/930365"
-        },
-        {
-          "title": "더 도쿄 스테이션 호텔",
-          "url": "https://3ha.in/r/889992",
-          "lat": 35.6814,
-          "lng": 139.7671
-        },
-        {
-          "title": "게이오 플라자 호텔 도쿄 (hotelId 994639)",
-          "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1977467&hl=ko-kr&hid=7263"
-        },
-        {
-          "title": "아키하바라·우에노 호텔 TOP3",
-          "url": "https://3ha.in/r/891593",
-          "lat": 35.6984,
-          "lng": 139.7731
-        },
-        {
-          "title": "팰리스 호텔 도쿄",
-          "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1977467&hl=ko-kr&hid=10567649"
-        },
-        {
-          "title": "파크 하얏트 도쿄",
-          "url": "https://3ha.in/r/836120",
-          "lat": 35.6853,
-          "lng": 139.691
-        },
-        {
-          "title": "호텔 선루트 플라자 신주쿠",
-          "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1977467&hl=ko-kr&hid=9072885",
-          "lat": 35.687091,
-          "lng": 139.698881
-        },
-        {
-          "title": "호텔 메트로폴리탄 도쿄 이케부쿠로",
-          "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1977467&hl=ko-kr&hid=6063",
-          "lat": 35.728339,
-          "lng": 139.708001
-        },
-        {
-          "title": "미츠이 가든 호텔 긴자 프리미어",
-          "url": "https://3ha.in/r/778428",
-          "lat": 35.667112,
-          "lng": 139.763179
-        },
-        {
-          "title": "더 게이트 호텔 가미나리몬",
-          "url": "https://3ha.in/r/767004",
-          "lat": 35.71087,
-          "lng": 139.795216
-        },
-        {
-          "title": "호텔 그레이서리 신주쿠",
-          "url": "https://3ha.in/r/760856",
-          "lat": 35.695563,
-          "lng": 139.702277
-        }
-      ],
-      "spot": [
-        {
-          "title": "팀랩 보더리스 티켓: 모리 빌딩 디지털 아트 뮤지엄 (20707)",
-          "url": "https://3ha.in/r/939050"
-        },
-        {
-          "title": "도쿄 출발 후지산 당일 버스투어",
-          "url": "https://3ha.in/r/856880",
-          "lat": 35.5016,
-          "lng": 138.801
-        },
-        {
-          "title": "도쿄타워 전망대 입장권",
-          "url": "https://blog.naver.com/gilbomm/224459942599",
-          "lat": 35.6586,
-          "lng": 139.7454
-        },
-        {
-          "title": "도쿄 스카이트리 입장권",
-          "url": "https://3ha.in/r/823677",
-          "lat": 35.7101,
-          "lng": 139.8107
-        },
-        {
-          "title": "팀랩 플래닛 도쿄 티켓",
-          "url": "https://3ha.in/r/795734",
-          "lat": 35.64938,
-          "lng": 139.789728
-        },
-        {
-          "title": "도쿄 디즈니 리조트 티켓",
-          "url": "https://blog.naver.com/gilbomm/224437921592",
-          "lat": 35.632659,
-          "lng": 139.881417
-        },
-        {
-          "title": "시부야 스카이 입장권",
-          "url": "https://3ha.in/r/761099",
-          "lat": 35.658379,
-          "lng": 139.702216
         }
       ]
     },
