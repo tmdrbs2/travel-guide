@@ -324,6 +324,112 @@ window.DATA = {
     }
   ],
   "cities": {
+    "bangkok": {
+      "name": "방콕",
+      "center": [
+        13.7466,
+        100.5393
+      ],
+      "zoom": 12,
+      "info": [
+        {
+          "title": "방콕 BTS·MRT 이용법, 표 종류·래빗 카드·MRT 결제",
+          "url": "https://blog.naver.com/gilbomm/224473779138"
+        },
+        {
+          "title": "방콕 수완나품 공항에서 시내 가는 법 공항철도·버스·그랩·택시",
+          "url": "https://blog.naver.com/gilbomm/224444187302"
+        },
+        {
+          "title": "태국 입국신고서 TDAC 작성 방법, 도착 3일 전 온라인 제출 순서",
+          "url": "https://blog.naver.com/gilbomm/224438253356"
+        }
+      ],
+      "food": [
+        {
+          "title": "방콕 야오와랏 맛집 TOP5",
+          "url": "https://blog.naver.com/gilbomm/224464086289",
+          "lat": 13.74,
+          "lng": 100.51
+        }
+      ],
+      "hotel": [
+        {
+          "title": "방콕 아속·수쿰윗 호텔 TOP3",
+          "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1977467&hl=ko-kr&hid=10697"
+        },
+        {
+          "title": "센타라 그랜드 앳 센트럴월드",
+          "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1977467&hl=ko-kr&hid=108196"
+        },
+        {
+          "title": "방콕 실롬 타이 쿠킹 클래스 (3965)",
+          "url": "https://3ha.in/r/924696"
+        },
+        {
+          "title": "시암 켐핀스키 호텔 방콕",
+          "url": "https://3ha.in/r/888692",
+          "lat": 13.7469,
+          "lng": 100.5348
+        },
+        {
+          "title": "만다린 오리엔탈 방콕",
+          "url": "https://3ha.in/r/836336",
+          "lat": 13.7236,
+          "lng": 100.5147
+        },
+        {
+          "title": "아바니+ 리버사이드 방콕",
+          "url": "https://3ha.in/r/795696",
+          "lat": 13.705025,
+          "lng": 100.491371
+        },
+        {
+          "title": "빠툼완 프린세스 호텔",
+          "url": "https://3ha.in/r/782251",
+          "lat": 13.743459,
+          "lng": 100.529695
+        },
+        {
+          "title": "그랜드 센터 포인트 터미널 21",
+          "url": "https://3ha.in/r/780367",
+          "lat": 13.738245,
+          "lng": 100.560731
+        },
+        {
+          "title": "방콕 BTS역 근처 호텔 TOP5",
+          "url": "https://3ha.in/r/757173",
+          "lat": 13.745625,
+          "lng": 100.534213
+        },
+        {
+          "title": "센타라 그랜드 앳 센트럴월드",
+          "url": "https://3ha.in/r/756923",
+          "lat": 13.747523,
+          "lng": 100.538361
+        }
+      ],
+      "spot": [
+        {
+          "title": "방콕 왕궁·사원 투어",
+          "url": "https://3ha.in/r/857118",
+          "lat": 13.75,
+          "lng": 100.4913
+        },
+        {
+          "title": "아유타야 당일 투어",
+          "url": "https://3ha.in/r/836674",
+          "lat": 14.357,
+          "lng": 100.56
+        },
+        {
+          "title": "짜오프라야 디너 크루즈",
+          "url": "https://3ha.in/r/823938",
+          "lat": 13.704,
+          "lng": 100.503
+        }
+      ]
+    },
     "vienna": {
       "name": "비엔나",
       "center": [
@@ -1053,108 +1159,6 @@ window.DATA = {
           "url": "https://3ha.in/r/795326",
           "lat": 1.254201,
           "lng": 103.822667
-        }
-      ]
-    },
-    "bangkok": {
-      "name": "방콕",
-      "center": [
-        13.7466,
-        100.5393
-      ],
-      "zoom": 12,
-      "info": [
-        {
-          "title": "방콕 BTS·MRT 이용법, 표 종류·래빗 카드·MRT 결제",
-          "url": "https://blog.naver.com/gilbomm/224473779138"
-        },
-        {
-          "title": "방콕 수완나품 공항에서 시내 가는 법 공항철도·버스·그랩·택시",
-          "url": "https://blog.naver.com/gilbomm/224444187302"
-        },
-        {
-          "title": "태국 입국신고서 TDAC 작성 방법, 도착 3일 전 온라인 제출 순서",
-          "url": "https://blog.naver.com/gilbomm/224438253356"
-        }
-      ],
-      "food": [
-        {
-          "title": "방콕 야오와랏 맛집 TOP5",
-          "url": "https://blog.naver.com/gilbomm/224464086289",
-          "lat": 13.74,
-          "lng": 100.51
-        }
-      ],
-      "hotel": [
-        {
-          "title": "센타라 그랜드 앳 센트럴월드",
-          "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1977467&hl=ko-kr&hid=108196"
-        },
-        {
-          "title": "방콕 실롬 타이 쿠킹 클래스 (3965)",
-          "url": "https://3ha.in/r/924696"
-        },
-        {
-          "title": "시암 켐핀스키 호텔 방콕",
-          "url": "https://3ha.in/r/888692",
-          "lat": 13.7469,
-          "lng": 100.5348
-        },
-        {
-          "title": "만다린 오리엔탈 방콕",
-          "url": "https://3ha.in/r/836336",
-          "lat": 13.7236,
-          "lng": 100.5147
-        },
-        {
-          "title": "아바니+ 리버사이드 방콕",
-          "url": "https://3ha.in/r/795696",
-          "lat": 13.705025,
-          "lng": 100.491371
-        },
-        {
-          "title": "빠툼완 프린세스 호텔",
-          "url": "https://3ha.in/r/782251",
-          "lat": 13.743459,
-          "lng": 100.529695
-        },
-        {
-          "title": "그랜드 센터 포인트 터미널 21",
-          "url": "https://3ha.in/r/780367",
-          "lat": 13.738245,
-          "lng": 100.560731
-        },
-        {
-          "title": "방콕 BTS역 근처 호텔 TOP5",
-          "url": "https://3ha.in/r/757173",
-          "lat": 13.745625,
-          "lng": 100.534213
-        },
-        {
-          "title": "센타라 그랜드 앳 센트럴월드",
-          "url": "https://3ha.in/r/756923",
-          "lat": 13.747523,
-          "lng": 100.538361
-        }
-      ],
-      "spot": [
-        {
-          "title": "방콕 왕궁·사원 투어",
-          "url": "https://3ha.in/r/857118",
-          "lat": 13.75,
-          "lng": 100.4913
-        },
-        {
-          "title": "아유타야 당일 투어",
-          "url": "https://3ha.in/r/836674",
-          "lat": 14.357,
-          "lng": 100.56
-        },
-        {
-          "title": "짜오프라야 디너 크루즈",
-          "url": "https://3ha.in/r/823938",
-          "lat": 13.704,
-          "lng": 100.503
         }
       ]
     },
