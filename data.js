@@ -324,6 +324,100 @@ window.DATA = {
     }
   ],
   "cities": {
+    "taipei": {
+      "name": "타이베이",
+      "center": [
+        25.0478,
+        121.517
+      ],
+      "zoom": 13,
+      "info": [
+        {
+          "title": "타이베이 이지카드·MRT 이용법, 구입·충전·개찰구 카드 결제",
+          "url": "https://blog.naver.com/gilbomm/224459858470"
+        },
+        {
+          "title": "타이베이 타오위안공항에서 시내 가는 법, 공항 MRT·버스·택시",
+          "url": "https://blog.naver.com/gilbomm/224453687440"
+        },
+        {
+          "title": "대만 입국신고서 TWAC 작성 방법, 입국 7일 전부터 온라인 제출",
+          "url": "https://blog.naver.com/gilbomm/224438531547"
+        }
+      ],
+      "food": [
+        {
+          "title": "아종면선 곱창국수 시먼딩 (10451)",
+          "url": "https://blog.naver.com/gilbomm/224473727234"
+        },
+        {
+          "title": "스린 야시장 맛집 TOP5",
+          "url": "https://blog.naver.com/gilbomm/224459876375",
+          "lat": 25.0879,
+          "lng": 121.5243
+        },
+        {
+          "title": "융캉제 맛집 TOP5",
+          "url": "https://blog.naver.com/gilbomm/224444526215",
+          "lat": 25.033,
+          "lng": 121.5297
+        }
+      ],
+      "hotel": [
+        {
+          "title": "타이베이 곽원익 고병박물관 펑리수 만들기 (57963)",
+          "url": "https://blog.naver.com/gilbomm/224485479229"
+        },
+        {
+          "title": "그랜드 하얏트 타이베이",
+          "url": "https://3ha.in/r/857277",
+          "lat": 25.0346,
+          "lng": 121.5617
+        },
+        {
+          "title": "시티즌M 타이베이 노스 게이트",
+          "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1977467&hl=ko-kr&hid=2079109",
+          "lat": 25.047297,
+          "lng": 121.510604
+        },
+        {
+          "title": "시저 파크 호텔 타이베이",
+          "url": "https://3ha.in/r/795297",
+          "lat": 25.046111,
+          "lng": 121.516295
+        },
+        {
+          "title": "험블 하우스 타이베이",
+          "url": "https://3ha.in/r/767007",
+          "lat": 25.038606,
+          "lng": 121.567378
+        },
+        {
+          "title": "코스모스 호텔 타이베이",
+          "url": "https://3ha.in/r/757055",
+          "lat": 25.046356,
+          "lng": 121.518336
+        }
+      ],
+      "spot": [
+        {
+          "title": "마오콩 곤돌라 티켓 (명소 10572530)",
+          "url": "https://blog.naver.com/gilbomm/224492239284"
+        },
+        {
+          "title": "타이베이 지우펀·스펀 당일투어",
+          "url": "https://3ha.in/r/857331",
+          "lat": 25.1089,
+          "lng": 121.8442
+        },
+        {
+          "title": "타이베이 101 전망대 입장권",
+          "url": "https://3ha.in/r/842934",
+          "lat": 25.034,
+          "lng": 121.5645
+        }
+      ]
+    },
     "tokyo": {
       "name": "도쿄",
       "center": [
@@ -921,96 +1015,6 @@ window.DATA = {
           "url": "https://3ha.in/r/795326",
           "lat": 1.254201,
           "lng": 103.822667
-        }
-      ]
-    },
-    "taipei": {
-      "name": "타이베이",
-      "center": [
-        25.0478,
-        121.517
-      ],
-      "zoom": 13,
-      "info": [
-        {
-          "title": "타이베이 이지카드·MRT 이용법, 구입·충전·개찰구 카드 결제",
-          "url": "https://blog.naver.com/gilbomm/224459858470"
-        },
-        {
-          "title": "타이베이 타오위안공항에서 시내 가는 법, 공항 MRT·버스·택시",
-          "url": "https://blog.naver.com/gilbomm/224453687440"
-        },
-        {
-          "title": "대만 입국신고서 TWAC 작성 방법, 입국 7일 전부터 온라인 제출",
-          "url": "https://blog.naver.com/gilbomm/224438531547"
-        }
-      ],
-      "food": [
-        {
-          "title": "아종면선 곱창국수 시먼딩 (10451)",
-          "url": "https://blog.naver.com/gilbomm/224473727234"
-        },
-        {
-          "title": "스린 야시장 맛집 TOP5",
-          "url": "https://blog.naver.com/gilbomm/224459876375",
-          "lat": 25.0879,
-          "lng": 121.5243
-        },
-        {
-          "title": "융캉제 맛집 TOP5",
-          "url": "https://blog.naver.com/gilbomm/224444526215",
-          "lat": 25.033,
-          "lng": 121.5297
-        }
-      ],
-      "hotel": [
-        {
-          "title": "타이베이 곽원익 고병박물관 펑리수 만들기 (57963)",
-          "url": "https://blog.naver.com/gilbomm/224485479229"
-        },
-        {
-          "title": "그랜드 하얏트 타이베이",
-          "url": "https://3ha.in/r/857277",
-          "lat": 25.0346,
-          "lng": 121.5617
-        },
-        {
-          "title": "시티즌M 타이베이 노스 게이트",
-          "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1977467&hl=ko-kr&hid=2079109",
-          "lat": 25.047297,
-          "lng": 121.510604
-        },
-        {
-          "title": "시저 파크 호텔 타이베이",
-          "url": "https://3ha.in/r/795297",
-          "lat": 25.046111,
-          "lng": 121.516295
-        },
-        {
-          "title": "험블 하우스 타이베이",
-          "url": "https://3ha.in/r/767007",
-          "lat": 25.038606,
-          "lng": 121.567378
-        },
-        {
-          "title": "코스모스 호텔 타이베이",
-          "url": "https://3ha.in/r/757055",
-          "lat": 25.046356,
-          "lng": 121.518336
-        }
-      ],
-      "spot": [
-        {
-          "title": "타이베이 지우펀·스펀 당일투어",
-          "url": "https://3ha.in/r/857331",
-          "lat": 25.1089,
-          "lng": 121.8442
-        },
-        {
-          "title": "타이베이 101 전망대 입장권",
-          "url": "https://3ha.in/r/842934",
-          "lat": 25.034,
-          "lng": 121.5645
         }
       ]
     },
