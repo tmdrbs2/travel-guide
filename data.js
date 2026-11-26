@@ -343,6 +343,10 @@ window.DATA = {
       ],
       "food": [
         {
+          "title": "홍콩 코즈웨이베이 맛집 TOP5",
+          "url": "https://blog.naver.com/gilbomm/224492286527"
+        },
+        {
           "title": "홍콩 완차이·코즈웨이베이 맛집 TOP5",
           "url": "https://blog.naver.com/gilbomm/224484139575",
           "lat": 22.2775,
