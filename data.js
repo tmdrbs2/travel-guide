@@ -324,6 +324,110 @@ window.DATA = {
     }
   ],
   "cities": {
+    "singapore": {
+      "name": "싱가포르",
+      "center": [
+        1.2903,
+        103.8519
+      ],
+      "zoom": 12,
+      "info": [
+        {
+          "title": "싱가포르 창이 공항에서 시내 가는 법, MRT·버스·그랩·택시",
+          "url": "https://blog.naver.com/gilbomm/224444332531"
+        },
+        {
+          "title": "싱가포르 입국카드 SG Arrival Card 작성 방법·제출 시기",
+          "url": "https://blog.naver.com/gilbomm/224438277189"
+        }
+      ],
+      "food": [
+        {
+          "title": "싱가포르 시내 맛집 TOP5",
+          "url": "https://blog.naver.com/gilbomm/224453241895",
+          "lat": 1.2903,
+          "lng": 103.852
+        }
+      ],
+      "hotel": [
+        {
+          "title": "더 풀러턴 호텔 싱가포르",
+          "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1977467&hl=ko-kr&hid=10589",
+          "lat": 1.286202,
+          "lng": 103.853073
+        },
+        {
+          "title": "래플스 호텔 싱가포르",
+          "url": "https://3ha.in/r/836593",
+          "lat": 1.2949,
+          "lng": 103.8545
+        },
+        {
+          "title": "샹그릴라 싱가포르",
+          "url": "https://3ha.in/r/795722",
+          "lat": 1.311479,
+          "lng": 103.826444
+        },
+        {
+          "title": "팬 퍼시픽 오차드",
+          "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1977467&hl=ko-kr&hid=59913000",
+          "lat": 1.307345,
+          "lng": 103.829862
+        },
+        {
+          "title": "파크로열 컬렉션 피커링",
+          "url": "https://3ha.in/r/782138",
+          "lat": 1.285657,
+          "lng": 103.846257
+        },
+        {
+          "title": "마리나 베이 샌즈",
+          "url": "https://3ha.in/r/757106",
+          "lat": 1.283697,
+          "lng": 103.860723
+        }
+      ],
+      "spot": [
+        {
+          "title": "싱가포르 센토사 케이블카 스카이패스",
+          "url": "https://3ha.in/r/964204"
+        },
+        {
+          "title": "싱가포르 리버 크루즈 (3846)",
+          "url": "https://3ha.in/r/935379"
+        },
+        {
+          "title": "센토사 오셔너리움(S.E.A. 아쿠아리움) 입장권",
+          "url": "https://3ha.in/r/888687",
+          "lat": 1.2582,
+          "lng": 103.8205
+        },
+        {
+          "title": "싱가포르 동물원 입장권",
+          "url": "https://3ha.in/r/856899",
+          "lat": 1.4043,
+          "lng": 103.793
+        },
+        {
+          "title": "나이트 사파리 입장권",
+          "url": "https://3ha.in/r/824156",
+          "lat": 1.4022,
+          "lng": 103.7897
+        },
+        {
+          "title": "가든스 바이 더 베이 티켓",
+          "url": "https://3ha.in/r/795744",
+          "lat": 1.27914,
+          "lng": 103.867928
+        },
+        {
+          "title": "유니버설 스튜디오 싱가포르 티켓",
+          "url": "https://3ha.in/r/795326",
+          "lat": 1.254201,
+          "lng": 103.822667
+        }
+      ]
+    },
     "bangkok": {
       "name": "방콕",
       "center": [
@@ -1059,106 +1163,6 @@ window.DATA = {
           "url": "https://3ha.in/r/839142",
           "lat": 26.6942,
           "lng": 127.8779
-        }
-      ]
-    },
-    "singapore": {
-      "name": "싱가포르",
-      "center": [
-        1.2903,
-        103.8519
-      ],
-      "zoom": 12,
-      "info": [
-        {
-          "title": "싱가포르 창이 공항에서 시내 가는 법, MRT·버스·그랩·택시",
-          "url": "https://blog.naver.com/gilbomm/224444332531"
-        },
-        {
-          "title": "싱가포르 입국카드 SG Arrival Card 작성 방법·제출 시기",
-          "url": "https://blog.naver.com/gilbomm/224438277189"
-        }
-      ],
-      "food": [
-        {
-          "title": "싱가포르 시내 맛집 TOP5",
-          "url": "https://blog.naver.com/gilbomm/224453241895",
-          "lat": 1.2903,
-          "lng": 103.852
-        }
-      ],
-      "hotel": [
-        {
-          "title": "더 풀러턴 호텔 싱가포르",
-          "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1977467&hl=ko-kr&hid=10589",
-          "lat": 1.286202,
-          "lng": 103.853073
-        },
-        {
-          "title": "래플스 호텔 싱가포르",
-          "url": "https://3ha.in/r/836593",
-          "lat": 1.2949,
-          "lng": 103.8545
-        },
-        {
-          "title": "샹그릴라 싱가포르",
-          "url": "https://3ha.in/r/795722",
-          "lat": 1.311479,
-          "lng": 103.826444
-        },
-        {
-          "title": "팬 퍼시픽 오차드",
-          "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1977467&hl=ko-kr&hid=59913000",
-          "lat": 1.307345,
-          "lng": 103.829862
-        },
-        {
-          "title": "파크로열 컬렉션 피커링",
-          "url": "https://3ha.in/r/782138",
-          "lat": 1.285657,
-          "lng": 103.846257
-        },
-        {
-          "title": "마리나 베이 샌즈",
-          "url": "https://3ha.in/r/757106",
-          "lat": 1.283697,
-          "lng": 103.860723
-        }
-      ],
-      "spot": [
-        {
-          "title": "싱가포르 리버 크루즈 (3846)",
-          "url": "https://3ha.in/r/935379"
-        },
-        {
-          "title": "센토사 오셔너리움(S.E.A. 아쿠아리움) 입장권",
-          "url": "https://3ha.in/r/888687",
-          "lat": 1.2582,
-          "lng": 103.8205
-        },
-        {
-          "title": "싱가포르 동물원 입장권",
-          "url": "https://3ha.in/r/856899",
-          "lat": 1.4043,
-          "lng": 103.793
-        },
-        {
-          "title": "나이트 사파리 입장권",
-          "url": "https://3ha.in/r/824156",
-          "lat": 1.4022,
-          "lng": 103.7897
-        },
-        {
-          "title": "가든스 바이 더 베이 티켓",
-          "url": "https://3ha.in/r/795744",
-          "lat": 1.27914,
-          "lng": 103.867928
-        },
-        {
-          "title": "유니버설 스튜디오 싱가포르 티켓",
-          "url": "https://3ha.in/r/795326",
-          "lat": 1.254201,
-          "lng": 103.822667
         }
       ]
     },
