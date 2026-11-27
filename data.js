@@ -324,6 +324,70 @@ window.DATA = {
     }
   ],
   "cities": {
+    "fukuoka": {
+      "name": "후쿠오카",
+      "center": [
+        33.5902,
+        130.4017
+      ],
+      "zoom": 13,
+      "info": [
+        {
+          "title": "후쿠오카 지하철·버스 1일권 사는 법, 시티패스 비교",
+          "url": "https://blog.naver.com/gilbomm/224493895360"
+        },
+        {
+          "title": "후쿠오카 공항에서 하카타·텐진 가는 법, 지하철·버스·택시",
+          "url": "https://blog.naver.com/gilbomm/224474084664"
+        }
+      ],
+      "food": [
+        {
+          "title": "나카스·텐진 맛집 TOP5",
+          "url": "https://blog.naver.com/gilbomm/224444592801",
+          "lat": 33.593,
+          "lng": 130.404
+        }
+      ],
+      "hotel": [
+        {
+          "title": "힐튼 후쿠오카 씨호크",
+          "url": "https://3ha.in/r/953098",
+          "lat": 33.594829,
+          "lng": 130.359171
+        },
+        {
+          "title": "후쿠오카 하카타역 근처 호텔 TOP3 비교",
+          "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1977467&hl=ko-kr&hid=9125",
+          "lat": 33.590041,
+          "lng": 130.419903
+        },
+        {
+          "title": "더 블라썸 하카타 프리미어",
+          "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1977467&hl=ko-kr&hid=16216159",
+          "lat": 33.590247,
+          "lng": 130.414007
+        },
+        {
+          "title": "후쿠오카 공항 근처 vs 하카타 시내 호텔",
+          "url": "https://3ha.in/r/782164",
+          "lat": 33.590041,
+          "lng": 130.419903
+        },
+        {
+          "title": "호텔 닛코 후쿠오카",
+          "url": "https://3ha.in/r/757007",
+          "lat": 33.591509,
+          "lng": 130.417192
+        }
+      ],
+      "spot": [
+        {
+          "title": "유후인 벳푸 가마도 지옥 다자이후 한국어 가이드 일일 투어 (94584046)",
+          "url": "https://blog.naver.com/gilbomm/224490674935"
+        }
+      ]
+    },
     "tokyo": {
       "name": "도쿄",
       "center": [
@@ -1014,66 +1078,6 @@ window.DATA = {
         {
           "title": "하와이 폴리네시안 문화센터 (8582)",
           "url": "https://3ha.in/r/953094"
-        }
-      ]
-    },
-    "fukuoka": {
-      "name": "후쿠오카",
-      "center": [
-        33.5902,
-        130.4017
-      ],
-      "zoom": 13,
-      "info": [
-        {
-          "title": "후쿠오카 공항에서 하카타·텐진 가는 법, 지하철·버스·택시",
-          "url": "https://blog.naver.com/gilbomm/224474084664"
-        }
-      ],
-      "food": [
-        {
-          "title": "나카스·텐진 맛집 TOP5",
-          "url": "https://blog.naver.com/gilbomm/224444592801",
-          "lat": 33.593,
-          "lng": 130.404
-        }
-      ],
-      "hotel": [
-        {
-          "title": "힐튼 후쿠오카 씨호크",
-          "url": "https://3ha.in/r/953098",
-          "lat": 33.594829,
-          "lng": 130.359171
-        },
-        {
-          "title": "후쿠오카 하카타역 근처 호텔 TOP3 비교",
-          "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1977467&hl=ko-kr&hid=9125",
-          "lat": 33.590041,
-          "lng": 130.419903
-        },
-        {
-          "title": "더 블라썸 하카타 프리미어",
-          "url": "https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1977467&hl=ko-kr&hid=16216159",
-          "lat": 33.590247,
-          "lng": 130.414007
-        },
-        {
-          "title": "후쿠오카 공항 근처 vs 하카타 시내 호텔",
-          "url": "https://3ha.in/r/782164",
-          "lat": 33.590041,
-          "lng": 130.419903
-        },
-        {
-          "title": "호텔 닛코 후쿠오카",
-          "url": "https://3ha.in/r/757007",
-          "lat": 33.591509,
-          "lng": 130.417192
-        }
-      ],
-      "spot": [
-        {
-          "title": "유후인 벳푸 가마도 지옥 다자이후 한국어 가이드 일일 투어 (94584046)",
-          "url": "https://blog.naver.com/gilbomm/224490674935"
         }
       ]
     },
